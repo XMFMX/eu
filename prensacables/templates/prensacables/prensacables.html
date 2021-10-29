@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Prensacables</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+</head>
+<body>
+    <div>
+        <div class="container text-center pt-5">
+            <div class='jumbotron'>
+                <h1>Prensacables</h1>
+                <br>
+                <div>
+                    <h3>Prensacables Plasticos BSC - Color Negro</h3>
+                    <table  class="table table-striped table-bordered">
+                        <thead class="thead-dark">
+                            <tr>
+                                <th>Codigo</th>
+                                <th>Descripcion</th>
+                                <th>Medida</th>
+                                <th>Diametro Minimo</th>
+                                <th>Diametro Maximo</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for plast_bsc in plastico_bsc %}
+                            <tr>
+                                <td>{{ plast_bsc.0 }}</td>
+                                <td>{{ plast_bsc.1 }}</td>
+                                <td>{{ plast_bsc.2 }}</td>
+                                <td>{{ plast_bsc.3 }}</td>
+                                <td>{{ plast_bsc.4 }}</td>
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                    <br>
+                    <h3>Prensacables Plasticos BSP - Color Gris</h3>
+                    <table  class="table table-striped table-bordered">
+                        <thead class="thead-dark">
+                            <tr>
+                                <th>Codigo</th>
+                                <th>Descripcion</th>
+                                <th>Medida</th>
+                                <th>Diametro Minimo</th>
+                                <th>Diametro Maximo</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for plast_bsp in plastico_bsp %}
+                            <tr>
+                                <td>{{ plast_bsp.0 }}</td>
+                                <td>{{ plast_bsp.1 }}</td>
+                                <td>{{ plast_bsp.2 }}</td>
+                                <td>{{ plast_bsp.3 }}</td>
+                                <td>{{ plast_bsp.4 }}</td>
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                    <br>
+                    <h3>Prensacables Plasticos PG - Color Crema</h3>
+                    <table  class="table table-striped table-bordered">
+                        <thead class="thead-dark">
+                            <tr>
+                                <th>Codigo</th>
+                                <th>Descripcion</th>
+                                <th>Medida</th>
+                                <th>Diametro Minimo</th>
+                                <th>Diametro Maximo</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for plast_pg in plastico_pg %}
+                            <tr>
+                                <td>{{ plast_pg.0 }}</td>
+                                <td>{{ plast_pg.1 }}</td>
+                                <td>{{ plast_pg.2 }}</td>
+                                <td>{{ plast_pg.3 }}</td>
+                                <td>{{ plast_pg.4 }}</td>
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                    <br>
+                    <h3>Prensacables Metalico BSC</h3>
+                    <table  class="table table-striped table-bordered">
+                        <thead class="thead-dark">
+                            <tr>
+                                <th>Codigo</th>
+                                <th>Descripcion</th>
+                                <th>Medida</th>
+                                <th>Diametro Minimo</th>
+                                <th>Diametro Maximo</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for met_bsc in metalico_bsc %}
+                            <tr>
+                                <td>{{ met_bsc.0 }}</td>
+                                <td>{{ met_bsc.1 }}</td>
+                                <td>{{ met_bsc.2 }}</td>
+                                <td>{{ met_bsc.3 }}</td>
+                                <td>{{ met_bsc.4 }}</td>
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                    <br>
+                    <h3>Prensacables Metalico BSP</h3>
+                    <table  class="table table-striped table-bordered">
+                        <thead class="thead-dark">
+                            <tr>
+                                <th>Codigo</th>
+                                <th>Descripcion</th>
+                                <th>Medida</th>
+                                <th>Diametro Minimo</th>
+                                <th>Diametro Maximo</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for met_bsp in metalico_bsp %}
+                            <tr>
+                                <td>{{ met_bsp.0 }}</td>
+                                <td>{{ met_bsp.1 }}</td>
+                                <td>{{ met_bsp.2 }}</td>
+                                <td>{{ met_bsp.3 }}</td>
+                                <td>{{ met_bsp.4 }}</td>
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                    <br>
+                    <h3>Prensacables Metalico PC</h3>
+                    <table  class="table table-striped table-bordered">
+                        <thead class="thead-dark">
+                            <tr>
+                                <th>Codigo</th>
+                                <th>Descripcion</th>
+                                <th>Medida</th>
+                                <th>Diametro Minimo</th>
+                                <th>Diametro Maximo</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for met_pc in metalico_pc %}
+                            <tr>
+                                <td>{{ met_pc.0 }}</td>
+                                <td>{{ met_pc.1 }}</td>
+                                <td>{{ met_pc.2 }}</td>
+                                <td>{{ met_pc.3 }}</td>
+                                <td>{{ met_pc.4 }}</td>
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+                <br>
+                <a href="http://127.0.0.1:8000/"><button type="submit" class="btn btn-danger btn-lg m-3">Volver al Inicio</button></a>
+            </div>
+        </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+</body>
+</html>

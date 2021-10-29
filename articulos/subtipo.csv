@@ -1,0 +1,1160 @@
+subtipo_id;subtipo;tipo;tipo_id
+1;Accesorio;Accesorios Tendido Aereo;1
+2;Adhesivo;Adhesivos / Selladores;2
+3;Sellador;Adhesivos / Selladores;2
+4;MiniSplit;Aire Acondicionado;3
+5;Portabarra;Aisladores;4
+6;Prensabarra;Aisladores;4
+7;Puntal;Apliques Jardin;5
+8;Bidireccional Exterior;Apliques Pared;6
+9;Bidireccional Interior;Apliques Pared;6
+10;Decoracion;Apliques Pared;6
+11;Embutir;Apliques Pared;6
+12;Exterior;Apliques Pared;6
+13;Cuadrada;Apliques Tortugas;7
+14;Cuadrada LED;Apliques Tortugas;7
+15;Oval;Apliques Tortugas;7
+16;Oval LED;Apliques Tortugas;7
+17;Rectangular LED;Apliques Tortugas;7
+18;Redonda;Apliques Tortugas;7
+19;Redonda LED;Apliques Tortugas;7
+20;Controladores y Acc.;Arrancadores Compactos;8
+21;Accesorio;Arrancadores Suaves;9
+22;CON Proteccion;Arrancadores Suaves;9
+23;SIN Proteccion;Arrancadores Suaves;9
+24;Accesorio;Arrancadores Tubos;10
+25;Automatico Tanque;Automaticos Nivel;11
+26;Conversor / Aislador Galvanico;Automatismo;12
+27;Encoder;Automatismo;12
+28;Enlace Inalambrico;Automatismo;12
+29;Lector de Codigo de Barras;Automatismo;12
+30;Panel HMI;Automatismo;12
+31;PC Industrial;Automatismo;12
+32;PLC y Accesorios;Automatismo;12
+33;Scada;Automatismo;12
+34;Servomotor;Automatismo;12
+35;Switch;Automatismo;12
+36;Compacta;Balastos Electronicos;13
+37;Tubo T10/12;Balastos Electronicos;13
+38;Tubo T5;Balastos Electronicos;13
+39;Tubo T8;Balastos Electronicos;13
+40;Compacta;Balastos Mecanicos;14
+41;Descarga;Balastos Mecanicos;14
+42;Tubo T8;Balastos Mecanicos;14
+43;Accesorio General;Bandejas Portacables;15
+44;Alambre;Bandejas Portacables;15
+45;Escalera;Bandejas Portacables;15
+46;Escalera Accesorio;Bandejas Portacables;15
+47;Escalera Smarttray;Bandejas Portacables;15
+48;Escalera Smarttray Accesorio;Bandejas Portacables;15
+49;Perfil;Bandejas Portacables;15
+50;Perfil Accesorio;Bandejas Portacables;15
+51;Perforada ;Bandejas Portacables;15
+52;Perforada Accesorio;Bandejas Portacables;15
+53;Flexible Aislada;Barras Cobre;16
+54;Mecanizada;Barras Cobre;16
+55;P.A.T.;Barras Cobre;16
+56;Planchuela;Barras Cobre;16
+57;Base Telefonica;Bases y Fichas Telefonicas;17
+58;Ficha Telefonica;Bases y Fichas Telefonicas;17
+59;Bateria 9V;Baterias;18
+60;Gel Recargable;Baterias;18
+61;Litio Recargable;Baterias;18
+62;Accesorio;Borneras;19
+63;Bakelita Bipolar;Borneras;19
+64;Bakelita Tetrapolar;Borneras;19
+65;Bakelita Tripolar;Borneras;19
+66;Bakelita Unipolar;Borneras;19
+67;Circuito Impreso;Borneras;19
+68;Columna Alumbrado Publico;Borneras;19
+69;PVC Divisible;Borneras;19
+70;PVC Enchufable;Borneras;19
+71;Accesorio;Bornes Modulares;20
+72;CON Proteccion;Bornes Modulares;20
+73;Conexion Resorte;Bornes Modulares;20
+74;Conexion Tornillo;Bornes Modulares;20
+75;Doble Piso;Bornes Modulares;20
+76;Identificacion;Bornes Modulares;20
+77;Portafusible;Bornes Modulares;20
+78;Potencia;Bornes Modulares;20
+79;Puesta a Tierra;Bornes Modulares;20
+80;Triple Piso - Sensores;Bornes Modulares;20
+81;Caja Colgante;Botoneras y Accesorios;21
+82;Caja Colgante Acc.;Botoneras y Accesorios;21
+83;Caja p/Botonera;Botoneras y Accesorios;21
+84;Inalambrica;Botoneras y Accesorios;21
+85;Instalacion Contra Incendio;Botoneras y Accesorios;21
+86;Montaje DIN;Botoneras y Accesorios;21
+87;Montaje Panel Acc.;Botoneras y Accesorios;21
+88;Montaje Panel Metalica;Botoneras y Accesorios;21
+89;Montaje Panel Plastica;Botoneras y Accesorios;21
+90;AR111;Cabezales Iluminacion;22
+91;Bipin G9;Cabezales Iluminacion;22
+92;Dicroica 12V;Cabezales Iluminacion;22
+93;Dicroica 220V;Cabezales Iluminacion;22
+94;Edison Bulbo;Cabezales Iluminacion;22
+95;Domiciliario;Cable Canales;23
+96;Domiciliario Accesorio;Cable Canales;23
+97;Industrial;Cable Canales;23
+98;Industrial Accesorio;Cable Canales;23
+99;Perfil Aluminio;Cable Canales;23
+100;Pisocanal;Cable Canales;23
+101;Pisocanal Accesorio;Cable Canales;23
+102;Profesional;Cable Canales;23
+103;Profesional Accesorio;Cable Canales;23
+104;Accesorio;Cajas Capsuladas;24
+105;Embutir;Cajas Capsuladas;24
+106;Exterior;Cajas Capsuladas;24
+107;Aluminio;Cajas Derivacion;25
+108;Chapa;Cajas Derivacion;25
+109;Plastica;Cajas Derivacion;25
+110;Plastica LH;Cajas Derivacion;25
+111;Accesorio;Cajas Din;26
+112;Metalica Embutir;Cajas Din;26
+113;Metalica Exterior;Cajas Din;26
+114;Plastica Embutir;Cajas Din;26
+115;Plastica Exterior;Cajas Din;26
+116;Accesorio;Cajas Luz;27
+117;Aluminio;Cajas Luz;27
+118;Hierro Liviano;Cajas Luz;27
+119;Hierro Pesado;Cajas Luz;27
+120;Hierro Semipesado;Cajas Luz;27
+121;Plastica;Cajas Luz;27
+122;Plastica LH;Cajas Luz;27
+123;Montante;Cajas Montantes;28
+124;Caja Telefonica;Cajas Telefonicas;29
+125;Accesorio;Campanillas;30
+126;Domiciliaria;Campanillas;30
+127;Inalambrica;Campanillas;30
+128;Industrial;Campanillas;30
+129;Sistema Canalis;Canalizacion Industrial;31
+130;Accesorio;Caños Metalicos;32
+131;Galvanizado;Caños Metalicos;32
+132;Galvanizado Accesorio;Caños Metalicos;32
+133;Hierro Liviano;Caños Metalicos;32
+134;Hierro Semipesado;Caños Metalicos;32
+135;Corrugado Metal;Caños Metalicos Flexibles;33
+136;Corrugado Metal/PVC;Caños Metalicos Flexibles;33
+137;Corrugado Metal/PVC Accesorio;Caños Metalicos Flexibles;33
+138;Accesorio;Caños Pilar;34
+139;Doble Aislacion;Caños Pilar;34
+140;Accesorio;Caños Plasticos;35
+141;Accesorio LH;Caños Plasticos;35
+142;Extrapesado;Caños Plasticos;35
+143;Semipesado;Caños Plasticos;35
+144;Semipesado LH;Caños Plasticos;35
+145;Accesorio;Caños Plasticos Flexibles;36
+146;Corrugado PVC;Caños Plasticos Flexibles;36
+147;Tubo Flexible;Caños Plasticos Flexibles;36
+148;Tubo Flexible Acc.;Caños Plasticos Flexibles;36
+149;Arranque Motor;Capacitores;37
+150;Banco Automatico;Capacitores;37
+151;Inductancias/Filtros;Capacitores;37
+152;Monofasico 250V;Capacitores;37
+153;Monofasico 400V;Capacitores;37
+154;Trifasico;Capacitores;37
+155;Ventilador;Capacitores;37
+156;Accesorio;CCTV;38
+157;Alarma;CCTV;38
+158;Camara Analogica;CCTV;38
+159;Camara Domo PTZ;CCTV;38
+160;Camara IP;CCTV;38
+161;Camara Termica;CCTV;38
+162;Camara Wi-Fi;CCTV;38
+163;Conector + Balun;CCTV;38
+164;DVR;CCTV;38
+165;Fuente Alimentacion;CCTV;38
+166;NVR;CCTV;38
+167;Switch;CCTV;38
+168;Aire Acondicionado;Cintas Aisladoras;39
+169;Autosoldable;Cintas Aisladoras;39
+170;Especial;Cintas Aisladoras;39
+171;Papel;Cintas Aisladoras;39
+172;PVC;Cintas Aisladoras;39
+173;Teflon;Cintas Aisladoras;39
+174;Doble Contacto;Cintas Doble Contacto;40
+175;Embalaje;Cintas Embalaje;41
+176;Accesorio;Cintas Helicoidal;42
+177;Helicoidal;Cintas Helicoidal;42
+178;Accesorio;Cintas Led;43
+179;Fuente Alimentacion;Cintas Led;43
+180;Kit;Cintas Led;43
+181;LED 2216;Cintas Led;43
+182;LED 2835;Cintas Led;43
+183;LED 3528;Cintas Led;43
+184;LED 5050;Cintas Led;43
+185;LED 5730;Cintas Led;43
+186;Yenny / Jackie;Cintas Led;43
+187;Accesorio;Cintas Pasacables;44
+188;Alma de Acero;Cintas Pasacables;44
+189;Plastica;Cintas Pasacables;44
+190;Sonda Pasacable;Cintas Pasacables;44
+191;Clip Bateria;Clips Conexion;45
+192;Decoracion;Colgantes Iluminacion;46
+193;LED;Colgantes Iluminacion;46
+194;Pantalla;Colgantes Iluminacion;46
+195;Pantalla Acc.;Colgantes Iluminacion;46
+196;Blanco;Conductores Bipolares;47
+197;Cristal;Conductores Bipolares;47
+198;Bomba Sumergible;Conductores Bombas Sumergibles;48
+199;75 Ohm;Conductores Coaxiles;49
+200;Acero-Cobre Puesta a Tierra;Conductores Desnudos;50
+201;Cobre;Conductores Desnudos;50
+202;0.50mm;Conductores Envainados TBP;51
+203;0.75mm;Conductores Envainados TBP;51
+204;1.00mm;Conductores Envainados TBP;51
+205;1.50mm;Conductores Envainados TBP;51
+206;2.50mm;Conductores Envainados TBP;51
+207; 0.50mm;Conductores Envainados TPR;52
+208; 0.75mm;Conductores Envainados TPR;52
+209; 1.00mm;Conductores Envainados TPR;52
+210; 1.50mm;Conductores Envainados TPR;52
+211; 2.50mm;Conductores Envainados TPR;52
+212; 4.00mm;Conductores Envainados TPR;52
+213; 6.00mm;Conductores Envainados TPR;52
+214;10.00mm;Conductores Envainados TPR;52
+215;Blindaje Aluminio;Conductores Instrumentacion;53
+216;Blindaje Estaño-Cobre;Conductores Instrumentacion;53
+217;Comando;Conductores Instrumentacion;53
+218;Instalacion Contra Incendio;Conductores Instrumentacion;53
+219;   1.50mm;Conductores LS0H 1.1kV;54
+220;   2.50mm;Conductores LS0H 1.1kV;54
+221;   4.00mm;Conductores LS0H 1.1kV;54
+222;   6.00mm;Conductores LS0H 1.1kV;54
+223;  10.00mm;Conductores LS0H 1.1kV;54
+224;  16.00mm;Conductores LS0H 1.1kV;54
+225;  25.00mm;Conductores LS0H 1.1kV;54
+226;  35.00mm;Conductores LS0H 1.1kV;54
+227;  50.00mm;Conductores LS0H 1.1kV;54
+228;  70.00mm;Conductores LS0H 1.1kV;54
+229;  95.00mm;Conductores LS0H 1.1kV;54
+230; 120.00mm;Conductores LS0H 1.1kV;54
+231; 150.00mm;Conductores LS0H 1.1kV;54
+232; 185.00mm;Conductores LS0H 1.1kV;54
+233; 240.00mm;Conductores LS0H 1.1kV;54
+234;Comando;Conductores LS0H 1.1kV;54
+235;Soldadura;Conductores Soldadura;55
+236;  1.50mm;Conductores Subterraneos;56
+237;  2.50mm;Conductores Subterraneos;56
+238;  4.00mm;Conductores Subterraneos;56
+239;  6.00mm;Conductores Subterraneos;56
+240; 10.00mm;Conductores Subterraneos;56
+241; 16.00mm;Conductores Subterraneos;56
+242; 25.00mm;Conductores Subterraneos;56
+243; 35.00mm;Conductores Subterraneos;56
+244; 50.00mm;Conductores Subterraneos;56
+245; 70.00mm;Conductores Subterraneos;56
+246; 95.00mm;Conductores Subterraneos;56
+247;120.00mm;Conductores Subterraneos;56
+248;150.00mm;Conductores Subterraneos;56
+249;185.00mm;Conductores Subterraneos;56
+250;240.00mm;Conductores Subterraneos;56
+251;300.00mm;Conductores Subterraneos;56
+252;Comando;Conductores Subterraneos;56
+253;Acometida;Conductores Telefonia;57
+254;Espiral;Conductores Telefonia;57
+255;Exterior;Conductores Telefonia;57
+256;Interior;Conductores Telefonia;57
+257;Portero;Conductores Telefonia;57
+258;Prolongador;Conductores Telefonia;57
+259;Baja Tension;Conductores Tendido Aereo;58
+260;Media Tension;Conductores Tendido Aereo;58
+261;  0.75mm;Conductores Unipolares;59
+262;  1.00mm;Conductores Unipolares;59
+263;  1.50mm;Conductores Unipolares;59
+264;  2.50mm;Conductores Unipolares;59
+265;  4.00mm;Conductores Unipolares;59
+266;  6.00mm;Conductores Unipolares;59
+267; 10.00mm;Conductores Unipolares;59
+268; 16.00mm;Conductores Unipolares;59
+269; 25.00mm;Conductores Unipolares;59
+270; 35.00mm;Conductores Unipolares;59
+271; 50.00mm;Conductores Unipolares;59
+272; 70.00mm;Conductores Unipolares;59
+273; 95.00mm;Conductores Unipolares;59
+274;120.00mm;Conductores Unipolares;59
+275;Unifilar;Conductores Unipolares;59
+276;   1.50mm;Conductores Unipolares LS0H;60
+277;   2.50mm;Conductores Unipolares LS0H;60
+278;   4.00mm;Conductores Unipolares LS0H;60
+279;   6.00mm;Conductores Unipolares LS0H;60
+280;  10.00mm;Conductores Unipolares LS0H;60
+281;  16.00mm;Conductores Unipolares LS0H;60
+282;  25.00mm;Conductores Unipolares LS0H;60
+283;  35.00mm;Conductores Unipolares LS0H;60
+284;  50.00mm;Conductores Unipolares LS0H;60
+285;  70.00mm;Conductores Unipolares LS0H;60
+286;  95.00mm;Conductores Unipolares LS0H;60
+287;Acometida;Conductores Varios;61
+288;Alta Temperatura;Conductores Varios;61
+289;Interlock;Conductores Varios;61
+290;Parlante;Conductores Varios;61
+291;Accesorio;Conductos Bajo Piso;62
+292;Bajo Piso;Conductos Bajo Piso;62
+293;Accesorio;Contactores;63
+294;Arranque Estrella-Triangulo;Contactores;63
+295;Bobina;Contactores;63
+296;Casetina;Contactores;63
+297;Contactor Auxiliar;Contactores;63
+298;Contactor Inversor;Contactores;63
+299;Contactor Mini;Contactores;63
+300;Contactor Modular;Contactores;63
+301;Contactor Motor h/    7A;Contactores;63
+302;Contactor Motor h/    9A;Contactores;63
+303;Contactor Motor h/   12A;Contactores;63
+304;Contactor Motor h/   18A;Contactores;63
+305;Contactor Motor h/   25A;Contactores;63
+306;Contactor Motor h/   32A;Contactores;63
+307;Contactor Motor h/   38A;Contactores;63
+308;Contactor Motor h/   40A;Contactores;63
+309;Contactor Motor h/   50A;Contactores;63
+310;Contactor Motor h/   65A;Contactores;63
+311;Contactor Motor h/   80A;Contactores;63
+312;Contactor Motor h/   95A;Contactores;63
+313;Contactor Motor h/  115A;Contactores;63
+314;Contactor Motor h/  130A;Contactores;63
+315;Contactor Motor h/  150A;Contactores;63
+316;Contactor Motor h/  185A;Contactores;63
+317;Contactor Motor h/  225A;Contactores;63
+318;Contactor Motor h/  265A;Contactores;63
+319;Contactor Motor h/  300A;Contactores;63
+320;Contactor Motor h/  330A;Contactores;63
+321;Contactor Motor h/  400A;Contactores;63
+322;Contactor Motor h/  500A;Contactores;63
+323;Contactor Motor h/  630A;Contactores;63
+324;Contactor Motor h/  800A;Contactores;63
+325;Contactor Motor h/ 1000A;Contactores;63
+326;Contactor Motor h/ 1250A;Contactores;63
+327;Contactor Motor h/ 1350A;Contactores;63
+328;Contactor Motor h/ 2000A;Contactores;63
+329;Contactor Motor h/ 2650A;Contactores;63
+330;Contactor Motor h/ 2850A;Contactores;63
+331;Contactor p/Capacitor;Contactores;63
+332;Contactor Tetrapolar;Contactores;63
+333;Especial;Contactores;63
+334;Estado Solido;Contactores;63
+335;Tesys U;Contactores;63
+336;Detector Gas;Detectores Varios;64
+337;Detector Humo;Detectores Varios;64
+338;Detector Monoxido Carbono;Detectores Varios;64
+339;Detector Movimiento;Detectores Varios;64
+340;Accesorio;Domotica;65
+341;Cambre Ihaus;Domotica;65
+342;Control de Edificios;Domotica;65
+343;Hvac;Domotica;65
+344;SIGNIFY Interact Pro;Domotica;65
+345;YESLY;Domotica;65
+346;Electroiman;Electroimanes;66
+347;Electroiman Accesorio;Electroimanes;66
+348;Solenoide;Electroimanes;66
+349;Accesorio;Empalmes Aislantes;67
+350;Conector;Empalmes Aislantes;67
+351;Contraible en Frio;Empalmes Aislantes;67
+352;Gel Aislante;Empalmes Aislantes;67
+353;Media Tension;Empalmes Aislantes;67
+354;Minero;Empalmes Aislantes;67
+355;Resina Derivacion;Empalmes Aislantes;67
+356;Resina Recto;Empalmes Aislantes;67
+357;Slice;Empalmes Aislantes;67
+358;Termocontraible Recto;Empalmes Aislantes;67
+359;Energia Solar;Energia Solar;68
+360;Accesorio;Equipos Emergencia;69
+361;Bajo Consumo;Equipos Emergencia;69
+362;Compacta 2P;Equipos Emergencia;69
+363;LED;Equipos Emergencia;69
+364;Tubo T5/T8;Equipos Emergencia;69
+365;Computacion;Estabilizadores;70
+366;Ferro Resonante;Estabilizadores;70
+367;General Monofasico;Estabilizadores;70
+368;General Trifasico;Estabilizadores;70
+369;Inversor 12/220V;Estabilizadores;70
+370;Estacion de Carga;Estaciones De Carga;71
+371;Extractor Aire;Extractores Aire;72
+372;Farola;Farolas;73
+373;Farola LED;Farolas;73
+374;Farol;Faroles;74
+375;Circuito Impreso;Fichas Circuitos Impresos;75
+376;Accesorio;Fichas Industriales;76
+377;Adaptador;Fichas Industriales;76
+378;Hembra;Fichas Industriales;76
+379;Macho;Fichas Industriales;76
+380;Multipolar;Fichas Industriales;76
+381;NOD;Fichas Industriales;76
+382;TORCK;Fichas Industriales;76
+383;Adaptador;Fichas Varias;77
+384;Audio;Fichas Varias;77
+385;Conector Chasis;Fichas Varias;77
+386;Domiciliaria;Fichas Varias;77
+387;Especial;Fichas Varias;77
+388;Schuko;Fichas Varias;77
+389;TV;Fichas Varias;77
+390;USB;Fichas Varias;77
+391;Velador;Fichas Varias;77
+392;Kit Tarugo+Tornillo;Fijaciones De Nylon;78
+393;Soporte de Aislamiento;Fijaciones De Nylon;78
+394;Tarugo;Fijaciones De Nylon;78
+395;Broca Expandible;Fijaciones Metalicas;79
+396;Clavo;Fijaciones Metalicas;79
+397;Impacto;Fijaciones Metalicas;79
+398;Piton;Fijaciones Metalicas;79
+399;Tornillo de Hormigon;Fijaciones Metalicas;79
+400;Accesorio;Fijaciones Quimicas;80
+401;Ampolla Quimica;Fijaciones Quimicas;80
+402;Taco Quimico;Fijaciones Quimicas;80
+403;Varilla;Fijaciones Quimicas;80
+404;Fotocontrol;Fotocontroles;81
+405;Accesorio;Fuentes Alimentacion;82
+406;DC/DC;Fuentes Alimentacion;82
+407;Tension  5Vcc;Fuentes Alimentacion;82
+408;Tension 12Vcc;Fuentes Alimentacion;82
+409;Tension 15Vcc;Fuentes Alimentacion;82
+410;Tension 24Vcc;Fuentes Alimentacion;82
+411;Tension 48Vcc;Fuentes Alimentacion;82
+412;UPS;Fuentes Alimentacion;82
+413;Ceramico;Fusibles / Portafusibles;83
+414;Ceramico Portafusible;Fusibles / Portafusibles;83
+415;Diazed;Fusibles / Portafusibles;83
+416;Fusibles Varios;Fusibles / Portafusibles;83
+417;Media Tension;Fusibles / Portafusibles;83
+418;Neozed;Fusibles / Portafusibles;83
+419;NH Accesorio;Fusibles / Portafusibles;83
+420;NH Portafusible;Fusibles / Portafusibles;83
+421;NH T00;Fusibles / Portafusibles;83
+422;NH T000;Fusibles / Portafusibles;83
+423;NH T1;Fusibles / Portafusibles;83
+424;NH T2;Fusibles / Portafusibles;83
+425;NH T3;Fusibles / Portafusibles;83
+426;NH T4;Fusibles / Portafusibles;83
+427;NH Ultrarrapido T00;Fusibles / Portafusibles;83
+428;NH Ultrarrapido T1;Fusibles / Portafusibles;83
+429;NH Ultrarrapido T2;Fusibles / Portafusibles;83
+430;NH Ultrarrapido T3;Fusibles / Portafusibles;83
+431;Silized;Fusibles / Portafusibles;83
+432;Silized Portafusible;Fusibles / Portafusibles;83
+433;Vidrio;Fusibles / Portafusibles;83
+434;Vidrio Portafusible;Fusibles / Portafusibles;83
+435;Accesorio;Gabinetes Accesorios;84
+436;Carcasa p/Electronica;Gabinetes Accesorios;84
+437;Sistema de Calefaccion;Gabinetes Accesorios;84
+438;Sistema de Ventilacion;Gabinetes Accesorios;84
+439;Accesorio;Gabinetes De Medicion;85
+440;Caja de Toma;Gabinetes De Medicion;85
+441;Caja de Transformador;Gabinetes De Medicion;85
+442;Columna Medicion;Gabinetes De Medicion;85
+443;Medidor Monofasico;Gabinetes De Medicion;85
+444;Medidor Obra;Gabinetes De Medicion;85
+445;Medidor Trifasico;Gabinetes De Medicion;85
+446;Accesorio;Gabinetes Metalicos;86
+447;Armario Modular Gabexel;Gabinetes Metalicos;86
+448;Armario Modular Gabexel Acc.;Gabinetes Metalicos;86
+449;Armario Modular Genrod;Gabinetes Metalicos;86
+450;Armario Modular Genrod Acc.;Gabinetes Metalicos;86
+451;Armario Modular Schneider;Gabinetes Metalicos;86
+452;Armario Modular Schneider Acc.;Gabinetes Metalicos;86
+453;Armario Modular Tecnobox;Gabinetes Metalicos;86
+454;Armario Modular Tecnobox Acc.;Gabinetes Metalicos;86
+455;Caja Fuerte;Gabinetes Metalicos;86
+456;Capacitor;Gabinetes Metalicos;86
+457;Estanco;Gabinetes Metalicos;86
+458;Estanco c/Ducto;Gabinetes Metalicos;86
+459;Petrolero;Gabinetes Metalicos;86
+460;Protocolizado;Gabinetes Metalicos;86
+461;Pupitre;Gabinetes Metalicos;86
+462;Subpanel;Gabinetes Metalicos;86
+463;Tablero Bomba;Gabinetes Metalicos;86
+464;Tablero Transferencia;Gabinetes Metalicos;86
+465;Toma Industrial;Gabinetes Metalicos;86
+466;ABB Gemini;Gabinetes Plasticos;87
+467;ABB Mistral;Gabinetes Plasticos;87
+468;Conextube Argenpol;Gabinetes Plasticos;87
+469;Conextube Conexpol;Gabinetes Plasticos;87
+470;Conextube Tablepol;Gabinetes Plasticos;87
+471;Genrod Q Energy;Gabinetes Plasticos;87
+472;Roker PRD;Gabinetes Plasticos;87
+473;Roker PRG;Gabinetes Plasticos;87
+474;Scame;Gabinetes Plasticos;87
+475;Schneider Thalassa PLM;Gabinetes Plasticos;87
+476;Tableplast Serie G;Gabinetes Plasticos;87
+477;Tableplast Serie MP;Gabinetes Plasticos;87
+478;Tablero Obra;Gabinetes Plasticos;87
+479;Toma Industrial;Gabinetes Plasticos;87
+480;Toma Industrial Accesorio;Gabinetes Plasticos;87
+481;Gestion de Motor;Gestion De Motores;88
+482;Derivacion;Grampas Conexion;89
+483;Puesta a Tierra;Grampas Conexion;89
+484;Fijacion Conductores;Grampas Fijacion;90
+485;Guardalampara;Guardalamparas;91
+486;Accesorio;Guardamotores;92
+487;Magnetico;Guardamotores;92
+488;Rango  0- 10A;Guardamotores;92
+489;Rango  10- 40A;Guardamotores;92
+490;Rango  40-100A;Guardamotores;92
+491;Rango 100-500A;Guardamotores;92
+492;Amoladora;Herramientas Electricas;93
+493;Bomba Periferica;Herramientas Electricas;93
+494;Caladora;Herramientas Electricas;93
+495;Compresor;Herramientas Electricas;93
+496;Guardalampara;Herramientas Electricas;93
+497;Hidrolavadora;Herramientas Electricas;93
+498;Mini Torno;Herramientas Electricas;93
+499;Pistola de Pegar;Herramientas Electricas;93
+500;Rotomartillo;Herramientas Electricas;93
+501;Soldador;Herramientas Electricas;93
+502;Taladro / Atornillador;Herramientas Electricas;93
+503;Taladro Percutor;Herramientas Electricas;93
+504;Buscapolo;Herramientas Rubro Electrico;94
+505;Compresion Conductores;Herramientas Rubro Electrico;94
+506;Compresion de Terminales;Herramientas Rubro Electrico;94
+507;Compresion de Terminales Hidraulica;Herramientas Rubro Electrico;94
+508;Compresion de Terminales Hidraulica Acc.;Herramientas Rubro Electrico;94
+509;Cortacable;Herramientas Rubro Electrico;94
+510;Destornillador Aislado;Herramientas Rubro Electrico;94
+511;Guante Aislante;Herramientas Rubro Electrico;94
+512;Pelacable;Herramientas Rubro Electrico;94
+513;Red Datos;Herramientas Rubro Electrico;94
+514;Soldador Estaño;Herramientas Rubro Electrico;94
+515;Soldador Estaño Soldadura;Herramientas Rubro Electrico;94
+516;Tijera;Herramientas Rubro Electrico;94
+517;Accesorio;Herramientas Rubro General;95
+518;Albañileria;Herramientas Rubro General;95
+519;Alicate General;Herramientas Rubro General;95
+520;Bolso / Mochila / Estuche;Herramientas Rubro General;95
+521;Caja Para Herramientas;Herramientas Rubro General;95
+522;Caja para Terminales;Herramientas Rubro General;95
+523;Calibre;Herramientas Rubro General;95
+524;Cargador de Bateria;Herramientas Rubro General;95
+525;Carpinteria;Herramientas Rubro General;95
+526;Celular;Herramientas Rubro General;95
+527;Cinta Metrica;Herramientas Rubro General;95
+528;Corta Rieles;Herramientas Rubro General;95
+529;Cortapernos;Herramientas Rubro General;95
+530;Cortatubo;Herramientas Rubro General;95
+531;Cuchillo / Hacha;Herramientas Rubro General;95
+532;Destornillador;Herramientas Rubro General;95
+533;Destornillador Torquimetro;Herramientas Rubro General;95
+534;Detector de Metal;Herramientas Rubro General;95
+535;Elevador Crique;Herramientas Rubro General;95
+536;Escuadra;Herramientas Rubro General;95
+537;Extractor;Herramientas Rubro General;95
+538;Francesa;Herramientas Rubro General;95
+539;Grupo Electrogeno;Herramientas Rubro General;95
+540;Jardineria;Herramientas Rubro General;95
+541;Kits;Herramientas Rubro General;95
+542;Linterna;Herramientas Rubro General;95
+543;Llave Allen;Herramientas Rubro General;95
+544;Llave Fija / Combinada / Bocallave (Tubo);Herramientas Rubro General;95
+545;Martillo/ Maza;Herramientas Rubro General;95
+546;Mecha;Herramientas Rubro General;95
+547;Morsa;Herramientas Rubro General;95
+548;Nivel;Herramientas Rubro General;95
+549;Pertiga;Herramientas Rubro General;95
+550;Pinza;Herramientas Rubro General;95
+551;Plomeria;Herramientas Rubro General;95
+552;Punta de Impacto;Herramientas Rubro General;95
+553;Remachadora;Herramientas Rubro General;95
+554;Sargento;Herramientas Rubro General;95
+555;Sierra / Serrucho;Herramientas Rubro General;95
+556;Sierra Copa;Herramientas Rubro General;95
+557;Solar;Herramientas Rubro General;95
+558;Stillson;Herramientas Rubro General;95
+559;Tenaza;Herramientas Rubro General;95
+560;Tijera;Herramientas Rubro General;95
+561;Tijera Corta Chapa;Herramientas Rubro General;95
+562;Tronzadora;Herramientas Rubro General;95
+563;Varios;Herramientas Rubro General;95
+564;Accesorio;Identificadores Conductores;96
+565;Adhesivo;Identificadores Conductores;96
+566;Anillo;Identificadores Conductores;96
+567;Omega;Identificadores Conductores;96
+568;Lista Completa;IFM;97
+569;Ignitor;Ignitores;98
+570;Accesorio;Indicadores Luminosos;99
+571;Montaje DIN;Indicadores Luminosos;99
+572;Montaje Panel Metalico;Indicadores Luminosos;99
+573;Montaje Panel Plastico;Indicadores Luminosos;99
+574;Lista Completa;Industrial Controles;100
+575;Instalacion Hospitalaria;Instalaciones Hospitalarias;101
+576;Accesorio;Instrumentos Medicion Portable;102
+577;Accesorio Puntas y Cables;Instrumentos Medicion Portable;102
+578;Accesorio Sondas / Lazos de Corriente;Instrumentos Medicion Portable;102
+579;Alta Tension;Instrumentos Medicion Portable;102
+580;Analizador y Registrador de Energia Electrica;Instrumentos Medicion Portable;102
+581;Anemometro;Instrumentos Medicion Portable;102
+582;Capacimetro;Instrumentos Medicion Portable;102
+583;Comprobador Instalaciones Electricas;Instrumentos Medicion Portable;102
+584;Contador de Particulas;Instrumentos Medicion Portable;102
+585;Decibelimetro;Instrumentos Medicion Portable;102
+586;Detector Fugas de Gas;Instrumentos Medicion Portable;102
+587;Detector Tension Inductivo;Instrumentos Medicion Portable;102
+588;Instrumentos Varios;Instrumentos Medicion Portable;102
+589;KITs Combinados;Instrumentos Medicion Portable;102
+590;Luxometro;Instrumentos Medicion Portable;102
+591;Medidor de Distancia;Instrumentos Medicion Portable;102
+592;Medidor de Nivel;Instrumentos Medicion Portable;102
+593;Medidor de Potencia Solar;Instrumentos Medicion Portable;102
+594;Megohmetro;Instrumentos Medicion Portable;102
+595;Multimetro;Instrumentos Medicion Portable;102
+596;Osciloscopio;Instrumentos Medicion Portable;102
+597;Pinza Amperometrica;Instrumentos Medicion Portable;102
+598;Probador de Bateria;Instrumentos Medicion Portable;102
+599;Puntas de Prueba;Instrumentos Medicion Portable;102
+600;Red Datos;Instrumentos Medicion Portable;102
+601;Secuencimetro;Instrumentos Medicion Portable;102
+602;Sistema de Localizacion;Instrumentos Medicion Portable;102
+603;Software;Instrumentos Medicion Portable;102
+604;Tacometro;Instrumentos Medicion Portable;102
+605;Telurimetro;Instrumentos Medicion Portable;102
+606;Termohigrometro;Instrumentos Medicion Portable;102
+607;Termometro IR;Instrumentos Medicion Portable;102
+608;Termometro p/Termocupla;Instrumentos Medicion Portable;102
+609;Accesorio;Instrumentos Medicion Tableros;103
+610;Amperimetro Panel;Instrumentos Medicion Tableros;103
+611;Analizador Red;Instrumentos Medicion Tableros;103
+612;Controlador Temperatura;Instrumentos Medicion Tableros;103
+613;Cuenta Eventos;Instrumentos Medicion Tableros;103
+614;Cuenta Horas;Instrumentos Medicion Tableros;103
+615;Frecuencimetro;Instrumentos Medicion Tableros;103
+616;Medidor Energia;Instrumentos Medicion Tableros;103
+617;Megohmetro;Instrumentos Medicion Tableros;103
+618;Otros;Instrumentos Medicion Tableros;103
+619;Rele Varimetrico;Instrumentos Medicion Tableros;103
+620;Secuencimetro;Instrumentos Medicion Tableros;103
+621;Selector Automatico Fases;Instrumentos Medicion Tableros;103
+622;Señal de Proceso;Instrumentos Medicion Tableros;103
+623;Vatimetro;Instrumentos Medicion Tableros;103
+624;Voltimetro DIN;Instrumentos Medicion Tableros;103
+625;Voltimetro Panel;Instrumentos Medicion Tableros;103
+626;Voltimetro-Amperimetro DIN;Instrumentos Medicion Tableros;103
+627;Voltimetro-Amperimetro Panel;Instrumentos Medicion Tableros;103
+628;Accesorio;Intercomunicadores;104
+629;Intercomunicador;Intercomunicadores;104
+630;Embutir;Interruptor Dimmer;105
+631;Montaje DIN;Interruptor Dimmer;105
+632;Digital;Interruptores;106
+633;Embutir;Interruptores;106
+634;Embutir Electronica;Interruptores;106
+635;Embutir Inversor de Marcha;Interruptores;106
+636;Montaje DIN;Interruptores;106
+637;Pedal;Interruptores;106
+638;Velador;Interruptores;106
+639;Accesorio;Interruptores Compactos;107
+640;Base Sin Rele 100-160A;Interruptores Compactos;107
+641;Base Sin Rele 200-250A;Interruptores Compactos;107
+642;Base Sin Rele 400-630A;Interruptores Compactos;107
+643;Rango 0-160A;Interruptores Compactos;107
+644;Rango 200-250A;Interruptores Compactos;107
+645;Rango 250-400A;Interruptores Compactos;107
+646;Rango 400-630A;Interruptores Compactos;107
+647;Rango 630-1600A;Interruptores Compactos;107
+648;Rele Proteccion;Interruptores Compactos;107
+649;Accesorio;Interruptores Conmutadores;108
+650;Automatica Mando Motor;Interruptores Conmutadores;108
+651;Bandeja Tablero;Interruptores Conmutadores;108
+652;Accesorio;Interruptores Conmutadores Rotativos;109
+653;Embutir;Interruptores Conmutadores Rotativos;109
+654;Embutir Conmutador Amperometrico;Interruptores Conmutadores Rotativos;109
+655;Embutir Conmutador Vatimetrico;Interruptores Conmutadores Rotativos;109
+656;Embutir Conmutador Voltimetrico;Interruptores Conmutadores Rotativos;109
+657;Embutir Dahlander;Interruptores Conmutadores Rotativos;109
+658;Embutir Electronica;Interruptores Conmutadores Rotativos;109
+659;Embutir Especial;Interruptores Conmutadores Rotativos;109
+660;Embutir Estrella Triangulo;Interruptores Conmutadores Rotativos;109
+661;Embutir Inversor de Marcha;Interruptores Conmutadores Rotativos;109
+662;Embutir Selector de Fase;Interruptores Conmutadores Rotativos;109
+663;Embutir Servomotor;Interruptores Conmutadores Rotativos;109
+664;Exterior;Interruptores Conmutadores Rotativos;109
+665;Exterior Dahlander;Interruptores Conmutadores Rotativos;109
+666;Exterior Estrella Triangulo;Interruptores Conmutadores Rotativos;109
+667;Exterior Inversor de Marcha;Interruptores Conmutadores Rotativos;109
+668;Exterior Selector de Fase;Interruptores Conmutadores Rotativos;109
+669;Montaje DIN;Interruptores Conmutadores Rotativos;109
+670;Montaje DIN Conmutador Amperometrico;Interruptores Conmutadores Rotativos;109
+671;Montaje DIN Conmutador Voltimetrico;Interruptores Conmutadores Rotativos;109
+672;Montaje DIN Inversor de Marcha;Interruptores Conmutadores Rotativos;109
+673;Montaje DIN Selector de Fase;Interruptores Conmutadores Rotativos;109
+674;Bloque Diferencial;Interruptores Difer.C/Filtro;110
+675;Corriente  25A;Interruptores Difer.C/Filtro;110
+676;Corriente  40A;Interruptores Difer.C/Filtro;110
+677;Corriente  63A;Interruptores Difer.C/Filtro;110
+678;Accesorio;Interruptores Diferenciales;111
+679;Aplicacion Especial;Interruptores Diferenciales;111
+680;Bloque Diferencial;Interruptores Diferenciales;111
+681;Corriente  16A;Interruptores Diferenciales;111
+682;Corriente  25A;Interruptores Diferenciales;111
+683;Corriente  40A;Interruptores Diferenciales;111
+684;Corriente  63A;Interruptores Diferenciales;111
+685;Corriente  80A;Interruptores Diferenciales;111
+686;Corriente 100A;Interruptores Diferenciales;111
+687;Corriente 125A;Interruptores Diferenciales;111
+688;Montaje DIN;Interruptores Diferenciales Toroidales;112
+689;Montaje Panel;Interruptores Diferenciales Toroidales;112
+690;Transformador Toroidal;Interruptores Diferenciales Toroidales;112
+691;Interruptor en Aire;Interruptores En Aire;113
+692;Interruptor en Vacio;Interruptores En Vacio;114
+693;Crepuscular;Interruptores Horario;115
+694;Digital;Interruptores Horario;115
+695;Mecanico;Interruptores Horario;115
+696;Embutir;Interruptores Rotativos;116
+697;Exterior;Interruptores Rotativos;116
+698;Rango 0-160A;Interruptores Seccionadores Caja Moldeada;117
+699;Rango 200-250A;Interruptores Seccionadores Caja Moldeada;117
+700;Rango 250-400A;Interruptores Seccionadores Caja Moldeada;117
+701;Rango 400-630A;Interruptores Seccionadores Caja Moldeada;117
+702;Rango 630-1600A;Interruptores Seccionadores Caja Moldeada;117
+703;Accesorio;Interruptores Seccionadores Rebatibles;118
+704;Portafusible NH;Interruptores Seccionadores Rebatibles;118
+705;Vertical;Interruptores Seccionadores Rebatibles;118
+706;Vertical Accesorio;Interruptores Seccionadores Rebatibles;118
+707;Accesorio;Interruptores Seccionadores Rotativos;119
+708;C/Caja IP65;Interruptores Seccionadores Rotativos;119
+709;Embutir;Interruptores Seccionadores Rotativos;119
+710;Exterior;Interruptores Seccionadores Rotativos;119
+711;Montaje Bandeja CON Proteccion;Interruptores Seccionadores Rotativos;119
+712;Montaje Bandeja SIN Proteccion;Interruptores Seccionadores Rotativos;119
+713;Montaje DIN;Interruptores Seccionadores Rotativos;119
+714;Accesorio;Interruptores Termicos Especiales;120
+715;Especial;Interruptores Termicos Especiales;120
+716;Interruptor de Control;Interruptores Termicos Especiales;120
+717;Accesorio;Interruptores Termomagneticos;121
+718;Corriente   0.5A;Interruptores Termomagneticos;121
+719;Corriente   1A;Interruptores Termomagneticos;121
+720;Corriente   2A;Interruptores Termomagneticos;121
+721;Corriente   3A;Interruptores Termomagneticos;121
+722;Corriente   4A;Interruptores Termomagneticos;121
+723;Corriente   6A;Interruptores Termomagneticos;121
+724;Corriente  10A;Interruptores Termomagneticos;121
+725;Corriente  16A;Interruptores Termomagneticos;121
+726;Corriente  20A;Interruptores Termomagneticos;121
+727;Corriente  25A;Interruptores Termomagneticos;121
+728;Corriente  32A;Interruptores Termomagneticos;121
+729;Corriente  40A;Interruptores Termomagneticos;121
+730;Corriente  50A;Interruptores Termomagneticos;121
+731;Corriente  63A;Interruptores Termomagneticos;121
+732;Corriente  80A;Interruptores Termomagneticos;121
+733;Corriente 100A;Interruptores Termomagneticos;121
+734;Corriente 125A;Interruptores Termomagneticos;121
+735;Accesorio;Jabalinas;122
+736;Caja Inspeccion;Jabalinas;122
+737;Jabalina;Jabalinas;122
+738;Junta Flexible;Juntas Flexibles;123
+739;Compacta 2P;Lamparas Bajo Consumo;124
+740;Compacta 4P;Lamparas Bajo Consumo;124
+741;Espiral;Lamparas Bajo Consumo;124
+742;Reflectora;Lamparas Bajo Consumo;124
+743;M.H. Axial Rx7s;Lamparas Descarga;125
+744;M.H. Ovoidal;Lamparas Descarga;125
+745;M.H. Tubular;Lamparas Descarga;125
+746;Mercurio Ovoidal;Lamparas Descarga;125
+747;Mezcladora Ovoidal;Lamparas Descarga;125
+748;S.A.P Ovoidal;Lamparas Descarga;125
+749;S.A.P Tubular;Lamparas Descarga;125
+750;Bipin;Lamparas Halogenas;126
+751;Dicroica;Lamparas Halogenas;126
+752;ECO Decorativa;Lamparas Halogenas;126
+753;Reflectora;Lamparas Halogenas;126
+754;Baja Tension;Lamparas Incandescentes;127
+755;Especial;Lamparas Incandescentes;127
+756;Alta Potencia;Lamparas LED;128
+757;Alta Potencia Acc.;Lamparas LED;128
+758;Autonoma;Lamparas LED;128
+759;Baja Tension;Lamparas LED;128
+760;Compacta 2P;Lamparas LED;128
+761;Decorativa;Lamparas LED;128
+762;Decorativa Filamento;Lamparas LED;128
+763;Dicroica 12V;Lamparas LED;128
+764;Dicroica 220V;Lamparas LED;128
+765;Edison Bulbo;Lamparas LED;128
+766;Edison c/Sensor Mov.;Lamparas LED;128
+767;Reflectora AR-111;Lamparas LED;128
+768;Reflectora AR-70;Lamparas LED;128
+769;Reflectora PAR 20;Lamparas LED;128
+770;Reflectora PAR 30;Lamparas LED;128
+771;Reflectora PAR 38;Lamparas LED;128
+772;Reflectora R63;Lamparas LED;128
+773;Reflectora Rx7s;Lamparas LED;128
+774;Instrumento de Prueba;Limitadores De Sobretension;129
+775;Limitador de Sobretension;Limitadores De Sobretension;129
+776;Accesorio;Limites De Carrera;130
+777;Metal;Limites De Carrera;130
+778;Plastico;Limites De Carrera;130
+779;Accesorio;Luminarias Alumbrado Publico;131
+780;LED;Luminarias Alumbrado Publico;131
+781;Aplique LED Cuadrado;Luminarias Aplicar;132
+782;Aplique LED Panel;Luminarias Aplicar;132
+783;Aplique LED Rectangular;Luminarias Aplicar;132
+784;Aplique LED Redondo;Luminarias Aplicar;132
+785;Combinado;Luminarias Aplicar;132
+786;Decoracion Techo;Luminarias Aplicar;132
+787;Decoracion Techo Cardanico;Luminarias Aplicar;132
+788;Regleta / Bases;Luminarias Aplicar;132
+789;Tubo LED;Luminarias Aplicar;132
+790;Dicroica;Luminarias De Escritorio;133
+791;Edison Bulbo;Luminarias De Escritorio;133
+792;LED;Luminarias De Escritorio;133
+793;Accesorio;Luminarias Embutir;134
+794;Decoracion Techo;Luminarias Embutir;134
+795;Decoracion Techo Cardanico;Luminarias Embutir;134
+796;Embutido LED Cuadrado;Luminarias Embutir;134
+797;Embutido LED Panel;Luminarias Embutir;134
+798;Embutido LED Rectangular;Luminarias Embutir;134
+799;Embutido LED Redondo;Luminarias Embutir;134
+800;Embutido p/Lampara;Luminarias Embutir;134
+801;Embutido p/Piso;Luminarias Embutir;134
+802;Embutido Tubo LED;Luminarias Embutir;134
+803;Accesorio;Luminarias Emergencia;135
+804;LED;Luminarias Emergencia;135
+805;LED;Luminarias Estancas;136
+806;Tubo LED;Luminarias Estancas;136
+807;Campana LED;Luminarias Industriales;137
+808;Pantalla Acc.;Luminarias Industriales;137
+809;Pantalla Metal;Luminarias Industriales;137
+810;Pantalla Policarbonato;Luminarias Industriales;137
+811;Colgante LED;Luminarias Lineales;138
+812;Colgante LED Acc.;Luminarias Lineales;138
+813;Colgante p/Tubo LED;Luminarias Lineales;138
+814;Embutido LED;Luminarias Lineales;138
+815;Embutido LED Acc.;Luminarias Lineales;138
+816;Embutido p/Tubo Led;Luminarias Lineales;138
+817;Bajo Alacena;Luminarias Listones;139
+818;Bajo Alacena LED;Luminarias Listones;139
+819;LED;Luminarias Listones;139
+820;Tubo LED;Luminarias Listones;139
+821;Tubo LED Sist.Modular;Luminarias Listones;139
+822;Tubo LED Sist.Modular Acc.;Luminarias Listones;139
+823;Tubo T12;Luminarias Listones;139
+824;Tubo T8;Luminarias Listones;139
+825;Driver;Luminarias Repuestos;140
+826;Repuesto Signify;Luminarias Repuestos;140
+827;Repuesto Ticar y Lucciola;Luminarias Repuestos;140
+828;Solar;Luminarias Solares;141
+829;Accesorio;Mantenimiento;142
+830;Aceite Lubricante;Mantenimiento;142
+831;Alcohol Isopropilico;Mantenimiento;142
+832;Computacion;Mantenimiento;142
+833;Electronica;Mantenimiento;142
+834;Espuma Limpieza;Mantenimiento;142
+835;Grasas Varias;Mantenimiento;142
+836;Laca Protectora;Mantenimiento;142
+837;Limpiacontacto;Mantenimiento;142
+838;Limpiamanos;Mantenimiento;142
+839;Removedor Particulas;Mantenimiento;142
+840;Media Tension;Media Tension;143
+841;Mercado Libre;Mercado Libre;144
+842;Luminaria;Meteriales Antiexplosivos;145
+843;Accesorio;Microinterruptores;146
+844;Microinterruptor;Microinterruptores;146
+845;Aislacion;Monitores De Aislacion Industriales;147
+846;Arco Electrico;Monitores De Arco Electrico;148
+847;Corriente;Monitores De Corriente;149
+848;Frecuencia;Monitores De Frecuencia;150
+849;Nivel de Liquido;Monitores De Nivel;151
+850;Temperatura;Monitores De Temperatura;152
+851;Tension;Monitores De Tension;153
+852;Velocidad;Monitores de Velocidad;154
+853;Accesorio;Motores;155
+854;Monofasico;Motores;155
+855;Trifasico;Motores;155
+856;Accesorio;Pararrayos;156
+857;Pararrayo;Pararrayos;156
+858;Metalico;Periscopios;157
+859;Metalico Accesorio;Periscopios;157
+860;Plastico;Periscopios;157
+861;Plastico Accesorio;Periscopios;157
+862;Alcalina;Pilas;158
+863;Cargador;Pilas;158
+864;Especial;Pilas;158
+865;Recargable;Pilas;158
+866;Accesorio;Portalamparas;159
+867;Adaptador;Portalamparas;159
+868;Bakelita;Portalamparas;159
+869;Porcelana;Portalamparas;159
+870;Receptaculo;Portalamparas;159
+871;Audio Multifamiliar;Porteros Electricos;160
+872;Audio Unifamiliar;Porteros Electricos;160
+873;Audio Unifamiliar Accesorio;Porteros Electricos;160
+874;Video Multifamiliar;Porteros Electricos;160
+875;Video Unifamiliar;Porteros Electricos;160
+876;Video Unifamiliar Accesorio;Porteros Electricos;160
+877;Accesorio;Potenciometros;161
+878;Potenciometro;Potenciometros;161
+879;Accesorio;Precintos;162
+880;Acero;Precintos;162
+881;Dentado;Precintos;162
+882;Precinto;Precintos;162
+883;Proteccion UV;Precintos;162
+884;Reutilizable;Precintos;162
+885;Accesorio;Prensacables;163
+886;Metalico;Prensacables;163
+887;Plastico;Prensacables;163
+888;Base Embutir;Prolongaciones / Bases;164
+889;Base Exterior;Prolongaciones / Bases;164
+890;Enrollacable;Prolongaciones / Bases;164
+891;Estacion de Carga;Prolongaciones / Bases;164
+892;Prolongacion Multiple;Prolongaciones / Bases;164
+893;Prolongacion Simple;Prolongaciones / Bases;164
+894;General;Protectores De Tension;165
+895;Individual;Protectores De Tension;165
+896;Cañon;Proyectores;166
+897;Descarga s/Portaeq.;Proyectores;166
+898;Edison Bulbo;Proyectores;166
+899;Halogena;Proyectores;166
+900;LED Alta Potencia;Proyectores;166
+901;LED Baja Potencia;Proyectores;166
+902;LED c/Sensor;Proyectores;166
+903;Wall Washer;Proyectores;166
+904;Reactor;Reactores;167
+905;Accesorio;Redes Datos;168
+906;Cables HDMI/USB/RCA/Plug;Redes Datos;168
+907;Canal de Tension;Redes Datos;168
+908;Conductor Red;Redes Datos;168
+909;Conector Jack, Plug y Acc.;Redes Datos;168
+910;Fibra Optica;Redes Datos;168
+911;Patchcord;Redes Datos;168
+912;Rack;Redes Datos;168
+913;Rack Accesorio;Redes Datos;168
+914;Refrigeracion;Redes Datos;168
+915;Roseta;Redes Datos;168
+916;Estado Solido;Reles Auxiliares;169
+917;Rele Auxiliar 1 INV;Reles Auxiliares;169
+918;Rele Auxiliar 2 INV;Reles Auxiliares;169
+919;Rele Auxiliar 3 INV;Reles Auxiliares;169
+920;Rele Auxiliar 4 INV;Reles Auxiliares;169
+921;Rele Auxiliar Accesorio;Reles Auxiliares;169
+922;Rele Auxiliar Circuito Impreso 1 INV;Reles Auxiliares;169
+923;Rele Auxiliar Circuito Impreso 2 INV;Reles Auxiliares;169
+924;Rele Auxiliar Circuito Impreso 3 INV;Reles Auxiliares;169
+925;Rele Auxiliar Circuito Impreso 4 INV;Reles Auxiliares;169
+926;Rele Auxiliar Circuito Impreso Accesorio;Reles Auxiliares;169
+927;Rele Auxiliar Circuito Impreso Estado Solido;Reles Auxiliares;169
+928;AEA Teco;Reles Inteligentes;170
+929;Schneider Zelio;Reles Inteligentes;170
+930;Siemens Logo V8;Reles Inteligentes;170
+931;Zoloda RCZ-LOGIC;Reles Inteligentes;170
+932;Accesorio;Reles Interfaces;171
+933;Interfaz PLC;Reles Interfaces;171
+934;Accesorio;Reles Prot. Electronicos;172
+935;Rango   0- 10A;Reles Prot. Electronicos;172
+936;Rango  10- 40A;Reles Prot. Electronicos;172
+937;Rango  40-100A;Reles Prot. Electronicos;172
+938;Rango 100-1000A;Reles Prot. Electronicos;172
+939;Accesorio;Reles Prot. Termicos;173
+940;Rango   0- 10A;Reles Prot. Termicos;173
+941;Rango  10- 40A;Reles Prot. Termicos;173
+942;Rango  40-100A;Reles Prot. Termicos;173
+943;Rango 100-1000A;Reles Prot. Termicos;173
+944;Repartidor;Repartidores De Tension;174
+945;Repartidor DIN;Repartidores De Tension;174
+946;Accesorio;Rieles Fijacion;175
+947;Riel DIN;Rieles Fijacion;175
+948;Riel DIN Accesorio;Rieles Fijacion;175
+949;Riel Olmar;Rieles Fijacion;175
+950;Riel Olmar Accesorio;Rieles Fijacion;175
+951;Accesorio;Rieles Iluminacion;176
+952;Accesorio;Rotuladoras;177
+953;Rotuladora;Rotuladoras;177
+954;Seguridad en Maquina;Seguridad En Maquinas;178
+955;Manipulador;Selectoras;179
+956;Montaje DIN;Selectoras;179
+957;Montaje Panel Accesorio;Selectoras;179
+958;Montaje Panel Metalica;Selectoras;179
+959;Montaje Panel Plastica;Selectoras;179
+960;Accesorio;Semaforos;180
+961;LED;Semaforos;180
+962;Accesorio;Sensores Industriales;181
+963;Capacitivo;Sensores Industriales;181
+964;Fotoelectrico;Sensores Industriales;181
+965;Inductivo;Sensores Industriales;181
+966;Magnetico;Sensores Industriales;181
+967;Presostato;Sensores Industriales;181
+968;Ultrasonido;Sensores Industriales;181
+969;Baliza;Señalizacion Industrial;182
+970;Faro;Señalizacion Industrial;182
+971;Modular;Señalizacion Industrial;182
+972;Barral Señalizacion;Señalizacion Vial y Acc.;183
+973;Señalizacion Vial;Señalizacion Vial y Acc.;183
+974;LED;Señalizadores Emergencia;184
+975;Sirena;Sirenas;185
+976;Accesorio;Spots Embutir;186
+977;AR-111;Spots Embutir;186
+978;Dicroica;Spots Embutir;186
+979;LED;Spots Embutir;186
+980;Par 30;Spots Embutir;186
+981;Arte;Teclas Cambre;187
+982;Bauhaus;Teclas Cambre;187
+983;Linea Exterior;Teclas Cambre;187
+984;Linea Hospitalaria;Teclas Cambre;187
+985;Modulo General;Teclas Cambre;187
+986;Señaletica Leds;Teclas Cambre;187
+987;Siglo XXI;Teclas Cambre;187
+988;Siglo XXII;Teclas Cambre;187
+989;Cristal;Teclas Jeluz;188
+990;Linea Exterior;Teclas Jeluz;188
+991;Modulo Platinum;Teclas Jeluz;188
+992;Modulo Verona General;Teclas Jeluz;188
+993;Platinum;Teclas Jeluz;188
+994;Verona 2000;Teclas Jeluz;188
+995;Verona BO;Teclas Jeluz;188
+996;Verona Mito;Teclas Jeluz;188
+997;Verona Regina;Teclas Jeluz;188
+998;Linea Exterior;Teclas kAlop;189
+999;Linea Era;Teclas Richi;190
+1000;Linea Geo;Teclas Richi;190
+1001;Linea NET5;Teclas Richi;190
+1002;Modulo General;Teclas Richi;190
+1003;Richi;Teclas Richi;190
+1004;Base;Teclas Schneider;191
+1005;Merten;Teclas Schneider;191
+1006;Modulo Roda General;Teclas Schneider;191
+1007;Roda;Teclas Schneider;191
+1008;Roda Class;Teclas Schneider;191
+1009;Roda Estanco;Teclas Schneider;191
+1010;Life;Teclas Sica;192
+1011;Linea Exterior;Teclas Sica;192
+1012;Modulo General;Teclas Sica;192
+1013;Silight Brava;Teclas Sica;192
+1014;Silight By Pininfarina;Teclas Sica;192
+1015;Telerruptor;Telerruptores;193
+1016;Accesorio;Temporizadores;194
+1017;Automatico p/Escalera;Temporizadores;194
+1018;Automatico p/Escalera Acc.;Temporizadores;194
+1019;Ciclador Asimetrico;Temporizadores;194
+1020;Ciclador Bombas;Temporizadores;194
+1021;Estrella-Triangulo;Temporizadores;194
+1022;Multifuncion / Ret.Conexion;Temporizadores;194
+1023;Pulsos;Temporizadores;194
+1024;Retardo Desconexion;Temporizadores;194
+1025;Accesorio;Terminales;195
+1026;Ajustable a tornillo;Terminales;195
+1027;Aluminio;Terminales;195
+1028;Bimetalico;Terminales;195
+1029;Bronce;Terminales;195
+1030;Cobre Estaño;Terminales;195
+1031;Cobre Estaño Media tension;Terminales;195
+1032;Conector en C / G;Terminales;195
+1033;Conector Media Tension;Terminales;195
+1034;Laton;Terminales;195
+1035;Preaislado;Terminales;195
+1036;Preaislado Potencia;Terminales;195
+1037;Puntera Aislada;Terminales;195
+1038;Puntera Sin Aislacion;Terminales;195
+1039;Sin Aislacion;Terminales;195
+1040;Union Ajustable a tornillo;Terminales;195
+1041;Union Aluminio;Terminales;195
+1042;Union Aluminio Media tension;Terminales;195
+1043;Union Cobre Estaño;Terminales;195
+1044;Contraible en Frio;Terminales Aislantes;196
+1045;Elastico MT;Terminales Aislantes;196
+1046;Resina BT;Terminales Aislantes;196
+1047;Termocontraible BT;Terminales Aislantes;196
+1048;Digital;Termostatos;197
+1049;Electro Mecanico;Termostatos;197
+1050;Accesorio;Tomas Industriales;198
+1051;Embutir;Tomas Industriales;198
+1052;Exterior;Tomas Industriales;198
+1053;Schuko;Tomas Industriales;198
+1054;Electronico 220/12V;Transformadores;199
+1055;Magnetico 220/ 12V;Transformadores;199
+1056;Magnetico 220/ 24V;Transformadores;199
+1057;Magnetico 220/110V;Transformadores;199
+1058;Magnetico 380/ 24V;Transformadores;199
+1059;Multitension;Transformadores;199
+1060;Pileta;Transformadores;199
+1061;Toroidal 220/12V;Transformadores;199
+1062;Shunt;Transformadores De Medicion;200
+1063;Transformador Intensidad;Transformadores De Medicion;200
+1064;Contraible en Frio;Tubos Aislantes;201
+1065;Plastico;Tubos Aislantes;201
+1066;Silicona;Tubos Aislantes;201
+1067;Tela;Tubos Aislantes;201
+1068;Termocontraible CON Adhesivo;Tubos Aislantes;201
+1069;Termocontraible SIN Adhesivo;Tubos Aislantes;201
+1070;Circular;Tubos Fluorescentes;202
+1071;Formato T5;Tubos Fluorescentes;202
+1072;Formato T8;Tubos Fluorescentes;202
+1073;Tubo LED (=105W) 3000K;Tubos LED;203
+1074;Tubo LED (=105W) 4000K;Tubos LED;203
+1075;Tubo LED (=105W) 6500K;Tubos LED;203
+1076;Tubo LED (=18W) 3000K;Tubos LED;203
+1077;Tubo LED (=18W) 4000K;Tubos LED;203
+1078;Tubo LED (=18W) 6500K;Tubos LED;203
+1079;Tubo LED (=30W) 3000K;Tubos LED;203
+1080;Tubo LED (=30W) 4000K;Tubos LED;203
+1081;Tubo LED (=30W) 6500K;Tubos LED;203
+1082;Tubo LED (=36W) 3000K;Tubos LED;203
+1083;Tubo LED (=36W) 4000K;Tubos LED;203
+1084;Tubo LED (=36W) 6500K;Tubos LED;203
+1085;Tubo LED (=58W) 3000K;Tubos LED;203
+1086;Tubo LED (=58W) 4000K;Tubos LED;203
+1087;Tubo LED (=58W) 6500K;Tubos LED;203
+1088;Tubo LED Autonomo;Tubos LED;203
+1089;Tubo LED Sensor;Tubos LED;203
+1090;Tubo LED T5 (=14W) 3000K;Tubos LED;203
+1091;Tubo LED T5 (=14W) 4000K;Tubos LED;203
+1092;Tubo LED T5 (=14W) 6500K;Tubos LED;203
+1093;Tubo LED T5 (=28W) 3000K;Tubos LED;203
+1094;Tubo LED T5 (=28W) 4000K;Tubos LED;203
+1095;Tubo LED T5 (=28W) 6500K;Tubos LED;203
+1096;Tubo LED T5 (=54W) 3000K;Tubos LED;203
+1097;Tubo LED T5 (=54W) 4000K;Tubos LED;203
+1098;Tubo LED T5 (=54W) 6500K;Tubos LED;203
+1099;IT Service;UPS;204
+1100;Refrigeracion;UPS;204
+1101;Sistemas de Gestion;UPS;204
+1102;UPS Accesorio;UPS;204
+1103;UPS Monofasica;UPS;204
+1104;UPS Trifasica;UPS;204
+1105;UPS_Galaxy + Acc.;UPS;204
+1106;UPS_Symmetra + Acc.;UPS;204
+1107;ABB Accesorio;Variadores De Velocidad;205
+1108;ABB ACH480;Variadores De Velocidad;205
+1109;ABB ACQ580;Variadores De Velocidad;205
+1110;ABB ACS150;Variadores De Velocidad;205
+1111;ABB ACS310;Variadores De Velocidad;205
+1112;ABB ACS355;Variadores De Velocidad;205
+1113;ABB ACS480;Variadores De Velocidad;205
+1114;ABB ACS55;Variadores De Velocidad;205
+1115;ABB ACS580;Variadores De Velocidad;205
+1116;ABB ACS880;Variadores De Velocidad;205
+1117;AEA Accesorio;Variadores De Velocidad;205
+1118;AEA SWP;Variadores De Velocidad;205
+1119;AEA SY5000;Variadores De Velocidad;205
+1120;AEA SY6600;Variadores De Velocidad;205
+1121;AEA SY8000;Variadores De Velocidad;205
+1122;KINCO;Variadores De Velocidad;205
+1123;Schneider Accesorio;Variadores De Velocidad;205
+1124;Schneider Altivar 11;Variadores De Velocidad;205
+1125;Schneider Altivar 12;Variadores De Velocidad;205
+1126;Schneider Altivar 212;Variadores De Velocidad;205
+1127;Schneider Altivar 310;Variadores De Velocidad;205
+1128;Schneider Altivar 312;Variadores De Velocidad;205
+1129;Schneider Altivar 320 Book;Variadores De Velocidad;205
+1130;Schneider Altivar 320 Compact;Variadores De Velocidad;205
+1131;Schneider Altivar 340;Variadores De Velocidad;205
+1132;Schneider Altivar 630;Variadores De Velocidad;205
+1133;Schneider Altivar 650;Variadores De Velocidad;205
+1134;Schneider Altivar 71;Variadores De Velocidad;205
+1135;Schneider Altivar 930;Variadores De Velocidad;205
+1136;Schneider Altivar 950;Variadores De Velocidad;205
+1137;Siemens Accesorio;Variadores De Velocidad;205
+1138;Siemens Sinamics G110;Variadores De Velocidad;205
+1139;Siemens Sinamics G120;Variadores De Velocidad;205
+1140;Siemens Sinamics V20;Variadores De Velocidad;205
+1141;Siemens Sinamics V90;Variadores De Velocidad;205
+1142;WEG Accesorio;Variadores De Velocidad;205
+1143;WEG CFW10;Variadores De Velocidad;205
+1144;WEG CFW100;Variadores De Velocidad;205
+1145;WEG CFW11;Variadores De Velocidad;205
+1146;WEG CFW300;Variadores De Velocidad;205
+1147;WEG CFW500;Variadores De Velocidad;205
+1148;Accesorio;Ventiladores Techo;206
+1149;Ventilador;Ventiladores Techo;206
+1150;Arrancador;Zocalos;207
+1151;Compacta;Zocalos;207
+1152;Descarga;Zocalos;207
+1153;Halogena;Zocalos;207
+1154;LED;Zocalos;207
+1155;Tubo;Zocalos;207
+1156;Domiciliario;Zumbadores;208
+1157;Montaje DIN;Zumbadores;208
+1158;Montaje Panel;Zumbadores;208
+1159;Zumbador Panel;Zumbadores;208

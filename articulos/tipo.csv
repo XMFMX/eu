@@ -1,0 +1,209 @@
+tipo_id;tipo
+1;Accesorios Tendido Aereo
+2;Adhesivos / Selladores
+3;Aire Acondicionado
+4;Aisladores
+5;Apliques Jardin
+6;Apliques Pared
+7;Apliques Tortugas
+8;Arrancadores Compactos
+9;Arrancadores Suaves
+10;Arrancadores Tubos
+11;Automaticos Nivel
+12;Automatismo
+13;Balastos Electronicos
+14;Balastos Mecanicos
+15;Bandejas Portacables
+16;Barras Cobre
+17;Bases y Fichas Telefonicas
+18;Baterias
+19;Borneras
+20;Bornes Modulares
+21;Botoneras y Accesorios
+22;Cabezales Iluminacion
+23;Cable Canales
+24;Cajas Capsuladas
+25;Cajas Derivacion
+26;Cajas Din
+27;Cajas Luz
+28;Cajas Montantes
+29;Cajas Telefonicas
+30;Campanillas
+31;Canalizacion Industrial
+32;Caños Metalicos
+33;Caños Metalicos Flexibles
+34;Caños Pilar
+35;Caños Plasticos
+36;Caños Plasticos Flexibles
+37;Capacitores
+38;CCTV
+39;Cintas Aisladoras
+40;Cintas Doble Contacto
+41;Cintas Embalaje
+42;Cintas Helicoidal
+43;Cintas Led
+44;Cintas Pasacables
+45;Clips Conexion
+46;Colgantes Iluminacion
+47;Conductores Bipolares
+48;Conductores Bombas Sumergibles
+49;Conductores Coaxiles
+50;Conductores Desnudos
+51;Conductores Envainados TBP
+52;Conductores Envainados TPR
+53;Conductores Instrumentacion
+54;Conductores LS0H 1.1kV
+55;Conductores Soldadura
+56;Conductores Subterraneos
+57;Conductores Telefonia
+58;Conductores Tendido Aereo
+59;Conductores Unipolares
+60;Conductores Unipolares LS0H
+61;Conductores Varios
+62;Conductos Bajo Piso
+63;Contactores
+64;Detectores Varios
+65;Domotica
+66;Electroimanes
+67;Empalmes Aislantes
+68;Energia Solar
+69;Equipos Emergencia
+70;Estabilizadores
+71;Estaciones De Carga
+72;Extractores Aire
+73;Farolas
+74;Faroles
+75;Fichas Circuitos Impresos
+76;Fichas Industriales
+77;Fichas Varias
+78;Fijaciones De Nylon
+79;Fijaciones Metalicas
+80;Fijaciones Quimicas
+81;Fotocontroles
+82;Fuentes Alimentacion
+83;Fusibles / Portafusibles
+84;Gabinetes Accesorios
+85;Gabinetes De Medicion
+86;Gabinetes Metalicos
+87;Gabinetes Plasticos
+88;Gestion De Motores
+89;Grampas Conexion
+90;Grampas Fijacion
+91;Guardalamparas
+92;Guardamotores
+93;Herramientas Electricas
+94;Herramientas Rubro Electrico
+95;Herramientas Rubro General
+96;Identificadores Conductores
+97;IFM
+98;Ignitores
+99;Indicadores Luminosos
+100;Industrial Controles
+101;Instalaciones Hospitalarias
+102;Instrumentos Medicion Portable
+103;Instrumentos Medicion Tableros
+104;Intercomunicadores
+105;Interruptor Dimmer
+106;Interruptores
+107;Interruptores Compactos
+108;Interruptores Conmutadores
+109;Interruptores Conmutadores Rotativos
+110;Interruptores Difer.C/Filtro
+111;Interruptores Diferenciales
+112;Interruptores Diferenciales Toroidales
+113;Interruptores En Aire
+114;Interruptores En Vacio
+115;Interruptores Horario
+116;Interruptores Rotativos
+117;Interruptores Seccionadores Caja Moldeada
+118;Interruptores Seccionadores Rebatibles
+119;Interruptores Seccionadores Rotativos
+120;Interruptores Termicos Especiales
+121;Interruptores Termomagneticos
+122;Jabalinas
+123;Juntas Flexibles
+124;Lamparas Bajo Consumo
+125;Lamparas Descarga
+126;Lamparas Halogenas
+127;Lamparas Incandescentes
+128;Lamparas LED
+129;Limitadores De Sobretension
+130;Limites De Carrera
+131;Luminarias Alumbrado Publico
+132;Luminarias Aplicar
+133;Luminarias De Escritorio
+134;Luminarias Embutir
+135;Luminarias Emergencia
+136;Luminarias Estancas
+137;Luminarias Industriales
+138;Luminarias Lineales
+139;Luminarias Listones
+140;Luminarias Repuestos
+141;Luminarias Solares
+142;Mantenimiento
+143;Media Tension
+144;Mercado Libre
+145;Meteriales Antiexplosivos
+146;Microinterruptores
+147;Monitores De Aislacion Industriales
+148;Monitores De Arco Electrico
+149;Monitores De Corriente
+150;Monitores De Frecuencia
+151;Monitores De Nivel
+152;Monitores De Temperatura
+153;Monitores De Tension
+154;Monitores de Velocidad
+155;Motores
+156;Pararrayos
+157;Periscopios
+158;Pilas
+159;Portalamparas
+160;Porteros Electricos
+161;Potenciometros
+162;Precintos
+163;Prensacables
+164;Prolongaciones / Bases
+165;Protectores De Tension
+166;Proyectores
+167;Reactores
+168;Redes Datos
+169;Reles Auxiliares
+170;Reles Inteligentes
+171;Reles Interfaces
+172;Reles Prot. Electronicos
+173;Reles Prot. Termicos
+174;Repartidores De Tension
+175;Rieles Fijacion
+176;Rieles Iluminacion
+177;Rotuladoras
+178;Seguridad En Maquinas
+179;Selectoras
+180;Semaforos
+181;Sensores Industriales
+182;Señalizacion Industrial
+183;Señalizacion Vial y Acc.
+184;Señalizadores Emergencia
+185;Sirenas
+186;Spots Embutir
+187;Teclas Cambre
+188;Teclas Jeluz
+189;Teclas kAlop
+190;Teclas Richi
+191;Teclas Schneider
+192;Teclas Sica
+193;Telerruptores
+194;Temporizadores
+195;Terminales
+196;Terminales Aislantes
+197;Termostatos
+198;Tomas Industriales
+199;Transformadores
+200;Transformadores De Medicion
+201;Tubos Aislantes
+202;Tubos Fluorescentes
+203;Tubos LED
+204;UPS
+205;Variadores De Velocidad
+206;Ventiladores Techo
+207;Zocalos
+208;Zumbadores

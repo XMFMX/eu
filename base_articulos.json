@@ -1,0 +1,1042 @@
+[
+    {
+        "tipo": "Accesorios Tendido Aereo",
+        "subtipo": {"Accesorio": "Accesorio"},
+        "marca": {"LCT": "LCT", "PRYSMIAN": "PRYSMIAN"}
+    },
+    {
+        "tipo": "Adhesivos / Selladores",
+        "subtipo": {"Adhesivo": "Adhesivo", "Sellador": "Sellador"},
+        "marca": {"3M": "3M", "BAHCO": "BAHCO", "FASTIX": "FASTIX", "FISCHER": "FISCHER", "LA GOTITA": "LA GOTITA", "POXILINA": "POXILINA", "POXIRAN": "POXIRAN", "TACSA": "TACSA"}
+    },
+    {
+        "tipo": "Aire Acondicionado",
+        "subtipo": {"MiniSplit": "MiniSplit"},
+        "marca": {"BGH": "BGH"}
+    },
+    {
+        "tipo": "Aisladores",
+        "subtipo": {"Portabarra": "Portabarra", "Prensabarra": "Prensabarra"},
+        "marca": {"ELENT": "ELENT", "GABEXEL": "GABEXEL", "GEN ROD": "GEN ROD", "PAMPACO": "PAMPACO", "TECNOBOX": "TECNOBOX"}
+    },
+    {
+        "tipo": "Apliques Jardin",
+        "subtipo": {"Puntal": "Puntal"},
+        "marca": {"ALIC": "ALIC", "ARTELUM": "ARTELUM", "GENERICO": "GENERICO", "LEDVANCE/OSRAM": "LEDVANCE/OSRAM", "LUCCIOLA": "LUCCIOLA"}
+    },
+    {
+        "tipo": "Apliques Pared",
+        "subtipo": {"Bidireccional Exterior": "Bidireccional Exterior", "Bidireccional Interior": "Bidireccional Interior", "Decoracion": "Decoracion", "Embutir": "Embutir", "Exterior": "Exterior"},
+        "marca": {"ALIC": "ALIC", "ARTELUM": "ARTELUM", "FW": "FW", "GENERICO": "GENERICO", "LEDVANCE/OSRAM": "LEDVANCE/OSRAM", "LUCCIOLA": "LUCCIOLA", "SAN JUSTO": "SAN JUSTO", "SICA": "SICA"}
+    },
+    {
+        "tipo": "Apliques Tortugas",
+        "subtipo": {"Cuadrada": "Cuadrada", "Cuadrada LED": "Cuadrada LED", "Oval": "Oval", "Oval LED": "Oval LED", "Rectangular LED": "Rectangular LED", "Redonda": "Redonda", "Redonda LED": "Redonda LED"},
+        "marca": {"ALIC": "ALIC", "ARTELUM": "ARTELUM", "GENERICO": "GENERICO", "LUMENAC": "LUMENAC", "MACROLED": "MACROLED", "ROKER": "ROKER", "SAN JUSTO": "SAN JUSTO", "SCAME": "SCAME", "TBCIN": "TBCIN"}
+    },
+    {
+        "tipo": "Arrancadores Compactos",
+        "subtipo": {"Controladores y Acc.": "Controladores y Acc."},
+        "marca": {"SCHNEIDER": "SCHNEIDER", "SIEMENS": "SIEMENS"}
+    },
+    {
+        "tipo": "Arrancadores Suaves",
+        "subtipo": {"Accesorio": "Accesorio", "CON Proteccion": "CON Proteccion", "SIN Proteccion": "SIN Proteccion"},
+        "marca": {"ABB": "ABB", "AEA": "AEA", "SCHNEIDER": "SCHNEIDER", "SIEMENS": "SIEMENS", "WEG": "WEG"}
+    },
+    {
+        "tipo": "Arrancadores Tubos",
+        "subtipo": {"Accesorio": "Accesorio"},
+        "marca": {"GENERICO": "GENERICO", "LEDVANCE/OSRAM": "LEDVANCE/OSRAM"}
+    },
+    {
+        "tipo": "Automaticos Nivel",
+        "subtipo": {"Automatico Tanque": "Automatico Tanque"},
+        "marca": {"VIYILANT": "VIYILANT"}
+    },
+    {
+        "tipo": "Automatismo",
+        "subtipo": {"Conversor / Aislador Galvanico": "Conversor / Aislador Galvanico", "Encoder": "Encoder", "Enlace Inalambrico": "Enlace Inalambrico", "Lector de Codigo de Barras": "Lector de Codigo de Barras", "PC Industrial": "PC Industrial", "PLC y Accesorios": "PLC y Accesorios", "Panel HMI": "Panel HMI", "Scada": "Scada", "Servomotor": "Servomotor", "Switch": "Switch"},
+        "marca": {"ABB": "ABB", "AEA": "AEA", "CIRCUTOR": "CIRCUTOR", "HOHNER": "HOHNER", "MICROSCAN": "MICROSCAN", "OMRON": "OMRON", "PHOENIX CONTACT": "PHOENIX CONTACT", "SCHNEIDER": "SCHNEIDER", "SIEMENS": "SIEMENS", "WEG": "WEG", "WEIDMULLER": "WEIDMULLER"}
+    },
+    {
+        "tipo": "Balastos Electronicos",
+        "subtipo": {"Compacta": "Compacta", "Tubo T10/12": "Tubo T10/12", "Tubo T5": "Tubo T5", "Tubo T8": "Tubo T8"},
+        "marca": {"ELT": "ELT", "PHILIPS": "PHILIPS"}
+    },
+    {
+        "tipo": "Balastos Mecanicos",
+        "subtipo": {"Compacta": "Compacta", "Descarga": "Descarga", "Tubo T8": "Tubo T8"},
+        "marca": {"ELT": "ELT", "LEDVANCE/OSRAM": "LEDVANCE/OSRAM"}
+    },
+    {
+        "tipo": "Bandejas Portacables",
+        "subtipo": {"Accesorio General": "Accesorio General", "Alambre": "Alambre", "Escalera": "Escalera", "Escalera Accesorio": "Escalera Accesorio", "Escalera Smarttray": "Escalera Smarttray", "Escalera Smarttray Accesorio": "Escalera Smarttray Accesorio", "Perfil": "Perfil", "Perfil Accesorio": "Perfil Accesorio", "Perforada ": "Perforada ", "Perforada Accesorio": "Perforada Accesorio"},
+        "marca": {"SAMET": "SAMET"}
+    },
+    {
+        "tipo": "Barras Cobre",
+        "subtipo": {"Flexible Aislada": "Flexible Aislada", "Mecanizada": "Mecanizada", "P.A.T.": "P.A.T.", "Planchuela": "Planchuela"},
+        "marca": {"CONEXTUBE": "CONEXTUBE", "ELENT": "ELENT", "GABEXEL": "GABEXEL", "GEN ROD": "GEN ROD", "PAMPACO": "PAMPACO", "SCAME": "SCAME", "SCHNEIDER": "SCHNEIDER", "STECK": "STECK", "ZOLODA": "ZOLODA"}
+    },
+    {
+        "tipo": "Bases y Fichas Telefonicas",
+        "subtipo": {"Base Telefonica": "Base Telefonica", "Ficha Telefonica": "Ficha Telefonica"},
+        "marca": {"GENERICO": "GENERICO"}
+    },
+    {
+        "tipo": "Baterias",
+        "subtipo": {"Bateria 9V": "Bateria 9V", "Gel Recargable": "Gel Recargable", "Litio Recargable": "Litio Recargable"},
+        "marca": {"ATOMLUX": "ATOMLUX", "ENERGIZER": "ENERGIZER", "GENERICO": "GENERICO", "MACROLED": "MACROLED", "SICA": "SICA"}
+    },
+    {
+        "tipo": "Borneras",
+        "subtipo": {"Accesorio": "Accesorio", "Bakelita Bipolar": "Bakelita Bipolar", "Bakelita Tetrapolar": "Bakelita Tetrapolar", "Bakelita Tripolar": "Bakelita Tripolar", "Bakelita Unipolar": "Bakelita Unipolar", "Circuito Impreso": "Circuito Impreso", "Columna Alumbrado Publico": "Columna Alumbrado Publico", "PVC Divisible": "PVC Divisible", "PVC Enchufable": "PVC Enchufable"},
+        "marca": {"GENERICO": "GENERICO", "PAMPACO": "PAMPACO", "PHOENIX CONTACT": "PHOENIX CONTACT", "SCAME": "SCAME", "TBCIN": "TBCIN", "TEA (KELAND)": "TEA (KELAND)"}
+    },
+    {
+        "tipo": "Bornes Modulares",
+        "subtipo": {"Accesorio": "Accesorio", "Con Proteccion": "Con Proteccion", "Conexion Resorte": "Conexion Resorte", "Conexion Tornillo": "Conexion Tornillo", "Doble Piso": "Doble Piso", "Identificacion": "Identificacion", "Portafusible": "Portafusible", "Potencia": "Potencia", "Puesta a Tierra": "Puesta a Tierra", "Triple Piso - Sensores": "Triple Piso - Sensores"},
+        "marca": {"AEA": "AEA", "PHOENIX CONTACT": "PHOENIX CONTACT", "WEIDMULLER": "WEIDMULLER", "ZOLODA": "ZOLODA"}
+    },
+    {
+        "tipo": "Botoneras y Accesorios",
+        "subtipo": {"Caja Colgante": "Caja Colgante", "Caja Colgante Acc.": "Caja Colgante Acc.", "Caja p/Botonera": "Caja p/Botonera", "Inalambrica": "Inalambrica", "Instalacion Contra Incendio": "Instalacion Contra Incendio", "Montaje DIN": "Montaje DIN", "Montaje Panel Acc.": "Montaje Panel Acc.", "Montaje Panel Metalica": "Montaje Panel Metalica", "Montaje Panel Plastica": "Montaje Panel Plastica"},
+        "marca": {"ABB": "ABB", "AEA": "AEA", "ASANNO": "ASANNO", "CONEXTUBE": "CONEXTUBE", "OMRON": "OMRON", "SCAME": "SCAME", "SCHNEIDER": "SCHNEIDER", "SICA": "SICA", "SIEMENS": "SIEMENS", "STECK": "STECK", "VEFBEN": "VEFBEN", "WEG": "WEG"}
+    },
+    {
+        "tipo": "CCTV",
+        "subtipo": {"Accesorio": "Accesorio", "Alarma": "Alarma", "Camara Analogica": "Camara Analogica", "Camara Domo PTZ": "Camara Domo PTZ", "Camara IP": "Camara IP", "Camara Termica": "Camara Termica", "Camara Wi-Fi": "Camara Wi-Fi", "Conector + Balun": "Conector + Balun", "DVR": "DVR", "Fuente Alimentacion": "Fuente Alimentacion", "NVR": "NVR", "Switch": "Switch"},
+        "marca": {"COMMAX": "COMMAX", "EZVIZ": "EZVIZ", "GENERICO": "GENERICO", "HIKVISION": "HIKVISION", "SICA": "SICA", "WESTERN DIGITAL": "WESTERN DIGITAL"}
+    },
+    {
+        "tipo": "Cabezales Iluminacion",
+        "subtipo": {"AR111": "AR111", "Bipin G9": "Bipin G9", "Dicroica 12V": "Dicroica 12V", "Dicroica 220V": "Dicroica 220V", "Edison Bulbo": "Edison Bulbo"},
+        "marca": {"ARTELUM": "ARTELUM", "GENERICO": "GENERICO", "LUCCIOLA": "LUCCIOLA"}
+    },
+    {
+        "tipo": "Cable Canales",
+        "subtipo": {"Domiciliario": "Domiciliario", "Domiciliario Accesorio": "Domiciliario Accesorio", "Industrial": "Industrial", "Industrial Accesorio": "Industrial Accesorio", "Perfil Aluminio": "Perfil Aluminio", "Pisocanal": "Pisocanal", "Pisocanal Accesorio": "Pisocanal Accesorio", "Profesional": "Profesional", "Profesional Accesorio": "Profesional Accesorio"},
+        "marca": {"ASANNO": "ASANNO", "CAMBRE": "CAMBRE", "HELLERMANN": "HELLERMANN", "HOYOS": "HOYOS", "PHOENIX CONTACT": "PHOENIX CONTACT", "ROKER": "ROKER", "SCHNEIDER": "SCHNEIDER", "ZOLODA": "ZOLODA"}
+    },
+    {
+        "tipo": "Cajas Capsuladas",
+        "subtipo": {"Accesorio": "Accesorio", "Embutir": "Embutir", "Exterior": "Exterior"},
+        "marca": {"kALOP": "kALOP"}
+    },
+    {
+        "tipo": "Cajas Derivacion",
+        "subtipo": {"Aluminio": "Aluminio", "Chapa": "Chapa", "Plastica": "Plastica", "Plastica LH": "Plastica LH"},
+        "marca": {"BERNOLUX": "BERNOLUX", "CONEXTUBE": "CONEXTUBE", "DELGA": "DELGA", "GABEXEL": "GABEXEL", "GEN ROD": "GEN ROD", "METALURGICA AG": "METALURGICA AG", "ROKER": "ROKER", "SCAME": "SCAME", "SCHNEIDER": "SCHNEIDER", "STECK": "STECK", "TABLEPLAST": "TABLEPLAST"}
+    },
+    {
+        "tipo": "Cajas Din",
+        "subtipo": {"Accesorio": "Accesorio", "Metalica Embutir": "Metalica Embutir", "Metalica Exterior": "Metalica Exterior", "Plastica Embutir": "Plastica Embutir", "Plastica Exterior": "Plastica Exterior"},
+        "marca": {"CONEXTUBE": "CONEXTUBE", "GABEXEL": "GABEXEL", "GEN ROD": "GEN ROD", "ROKER": "ROKER", "SCAME": "SCAME", "SCHNEIDER": "SCHNEIDER", "SICA": "SICA", "STECK": "STECK", "TABLEPLAST": "TABLEPLAST"}
+    },
+    {
+        "tipo": "Cajas Luz",
+        "subtipo": {"Accesorio": "Accesorio", "Aluminio": "Aluminio", "Hierro Liviano": "Hierro Liviano", "Hierro Pesado": "Hierro Pesado", "Hierro Semipesado": "Hierro Semipesado", "Plastica": "Plastica", "Plastica LH": "Plastica LH"},
+        "marca": {"9 DE JULIO": "9 DE JULIO", "ACERTUBO": "ACERTUBO", "ASANNO": "ASANNO", "CAMBRE": "CAMBRE", "CONEXTUBE": "CONEXTUBE", "DAISA": "DAISA", "GEN ROD": "GEN ROD", "GENERICO": "GENERICO", "METALURGICA AG": "METALURGICA AG", "NAMUNCURA": "NAMUNCURA", "ROKER": "ROKER", "SAN JUSTO": "SAN JUSTO", "SCHNEIDER": "SCHNEIDER", "TABLEPLAST": "TABLEPLAST", "ZOLODA": "ZOLODA"}
+    },
+    {
+        "tipo": "Cajas Montantes",
+        "subtipo": {"Montante": "Montante"},
+        "marca": {"BERNOLUX": "BERNOLUX"}
+    },
+    {
+        "tipo": "Cajas Telefonicas",
+        "subtipo": {"Caja Telefonica": "Caja Telefonica"},
+        "marca": {"BERNOLUX": "BERNOLUX", "GEN ROD": "GEN ROD"}
+    },
+    {
+        "tipo": "Campanillas",
+        "subtipo": {"Accesorio": "Accesorio", "Domiciliaria": "Domiciliaria", "Inalambrica": "Inalambrica", "Industrial": "Industrial"},
+        "marca": {"AEA": "AEA", "GENERICO": "GENERICO", "SICA": "SICA", "WAXON": "WAXON"}
+    },
+    {
+        "tipo": "Canalizacion Industrial",
+        "subtipo": {"Sistema Canalis": "Sistema Canalis"},
+        "marca": {"SCHNEIDER": "SCHNEIDER"}
+    },
+    {
+        "tipo": "Capacitores",
+        "subtipo": {"Arranque Motor": "Arranque Motor", "Banco Automatico": "Banco Automatico", "Inductancias/Filtros": "Inductancias/Filtros", "Monofasico 250V": "Monofasico 250V", "Monofasico 400V": "Monofasico 400V", "Trifasico": "Trifasico", "Ventilador": "Ventilador"},
+        "marca": {"ABB": "ABB", "ELECOND": "ELECOND", "ELT": "ELT", "LEYDEN": "LEYDEN", "SCHNEIDER": "SCHNEIDER", "WEG": "WEG"}
+    },
+    {
+        "tipo": "Caños Metalicos",
+        "subtipo": {"Accesorio": "Accesorio", "Galvanizado": "Galvanizado", "Galvanizado Accesorio": "Galvanizado Accesorio", "Hierro Liviano": "Hierro Liviano", "Hierro Semipesado": "Hierro Semipesado"},
+        "marca": {"9 DE JULIO": "9 DE JULIO", "ACERTUBO": "ACERTUBO", "DAISA": "DAISA", "DELGA": "DELGA", "FISCHER": "FISCHER", "GENERICO": "GENERICO", "LCT": "LCT", "METALURGICA AG": "METALURGICA AG", "USHUAIA": "USHUAIA", "ZOLODA": "ZOLODA"}
+    },
+    {
+        "tipo": "Caños Metalicos Flexibles",
+        "subtipo": {"Corrugado Metal": "Corrugado Metal", "Corrugado Metal/PVC": "Corrugado Metal/PVC", "Corrugado Metal/PVC Accesorio": "Corrugado Metal/PVC Accesorio"},
+        "marca": {"ARGEFLEX": "ARGEFLEX", "CONEXTUBE": "CONEXTUBE", "FLEXITEC": "FLEXITEC", "PAMPACO": "PAMPACO", "PHOENIX CONTACT": "PHOENIX CONTACT", "ZOLODA": "ZOLODA"}
+    },
+    {
+        "tipo": "Caños Pilar",
+        "subtipo": {"Accesorio": "Accesorio", "Doble Aislacion": "Doble Aislacion"},
+        "marca": {"ACERTUBO": "ACERTUBO", "CONEXTUBE": "CONEXTUBE", "GEN ROD": "GEN ROD", "SAN JUSTO": "SAN JUSTO"}
+    },
+    {
+        "tipo": "Caños Plasticos",
+        "subtipo": {"Accesorio": "Accesorio", "Accesorio LH": "Accesorio LH", "Extrapesado": "Extrapesado", "Semipesado": "Semipesado", "Semipesado LH": "Semipesado LH"},
+        "marca": {"BAHCO": "BAHCO", "CONEXTUBE": "CONEXTUBE", "GEN ROD": "GEN ROD", "PAMPACO": "PAMPACO", "ROKER": "ROKER", "SICA": "SICA", "TABLEPLAST": "TABLEPLAST"}
+    },
+    {
+        "tipo": "Caños Plasticos Flexibles",
+        "subtipo": {"Accesorio": "Accesorio", "Corrugado PVC": "Corrugado PVC", "Tubo Flexible": "Tubo Flexible", "Tubo Flexible Acc.": "Tubo Flexible Acc."},
+        "marca": {"GEN ROD": "GEN ROD", "GENERICO": "GENERICO", "MANGUELEC": "MANGUELEC", "METALURGICA AG": "METALURGICA AG", "PHOENIX CONTACT": "PHOENIX CONTACT"}
+    },
+    {
+        "tipo": "Cintas Aisladoras",
+        "subtipo": {"Aire Acondicionado": "Aire Acondicionado", "Autosoldable": "Autosoldable", "Especial": "Especial", "PVC": "PVC", "Papel": "Papel", "Teflon": "Teflon"},
+        "marca": {"3M": "3M", "GENERICO": "GENERICO", "INTECK": "INTECK", "PAMPACO": "PAMPACO", "PRYSMIAN": "PRYSMIAN", "SICA": "SICA", "TACSA": "TACSA", "VINI-TAPE": "VINI-TAPE"}
+    },
+    {
+        "tipo": "Cintas Doble Contacto",
+        "subtipo": {"Doble Contacto": "Doble Contacto"},
+        "marca": {"ASANNO": "ASANNO", "HELLERMANN": "HELLERMANN", "SCHNEIDER": "SCHNEIDER", "TACSA": "TACSA", "ZOLODA": "ZOLODA"}
+    },
+    {
+        "tipo": "Cintas Embalaje",
+        "subtipo": {"Embalaje": "Embalaje"},
+        "marca": {"TACSA": "TACSA"}
+    },
+    {
+        "tipo": "Cintas Helicoidal",
+        "subtipo": {"Accesorio": "Accesorio", "Helicoidal": "Helicoidal"},
+        "marca": {"HELLERMANN": "HELLERMANN", "PHOENIX CONTACT": "PHOENIX CONTACT", "SCHNEIDER": "SCHNEIDER", "STECK": "STECK", "VIYILANT": "VIYILANT"}
+    },
+    {
+        "tipo": "Cintas Led",
+        "subtipo": {"Accesorio": "Accesorio", "Fuente Alimentacion": "Fuente Alimentacion", "Kit": "Kit", "LED 2216": "LED 2216", "LED 2835": "LED 2835", "LED 3528": "LED 3528", "LED 5050": "LED 5050", "LED 5730": "LED 5730", "Yenny / Jackie": "Yenny / Jackie"},
+        "marca": {"ALIC": "ALIC", "ASANNO": "ASANNO", "GAMA SONIC": "GAMA SONIC", "GENERICO": "GENERICO", "LEDVANCE/OSRAM": "LEDVANCE/OSRAM", "LUCCIOLA": "LUCCIOLA", "MACROLED": "MACROLED", "WORLD LEDS GO": "WORLD LEDS GO"}
+    },
+    {
+        "tipo": "Cintas Pasacables",
+        "subtipo": {"Accesorio": "Accesorio", "Alma de Acero": "Alma de Acero", "Plastica": "Plastica", "Sonda Pasacable": "Sonda Pasacable"},
+        "marca": {"3M": "3M", "DELTA": "DELTA", "VIYILANT": "VIYILANT", "kALOP": "kALOP"}
+    },
+    {
+        "tipo": "Clips Conexion",
+        "subtipo": {"Clip Bateria": "Clip Bateria"},
+        "marca": {"GENERICO": "GENERICO"}
+    },
+    {
+        "tipo": "Colgantes Iluminacion",
+        "subtipo": {"Decoracion": "Decoracion", "LED": "LED", "Pantalla": "Pantalla", "Pantalla Acc.": "Pantalla Acc."},
+        "marca": {"ALIC": "ALIC", "ARTELUM": "ARTELUM", "LEDVANCE/OSRAM": "LEDVANCE/OSRAM", "LUCCIOLA": "LUCCIOLA", "LUMENAC": "LUMENAC", "MACROLED": "MACROLED", "MART": "MART"}
+    },
+    {
+        "tipo": "Conductores Bipolares",
+        "subtipo": {"Blanco": "Blanco", "Cristal": "Cristal"},
+        "marca": {"ARGENPLAS": "ARGENPLAS", "IMSA": "IMSA"}
+    },
+    {
+        "tipo": "Conductores Bombas Sumergibles",
+        "subtipo": {"Bomba Sumergible": "Bomba Sumergible"},
+        "marca": {"ARGENPLAS": "ARGENPLAS"}
+    },
+    {
+        "tipo": "Conductores Coaxiles",
+        "subtipo": {"75 Ohm": "75 Ohm"},
+        "marca": {"ARGENPLAS": "ARGENPLAS", "EPUYEN": "EPUYEN", "PRYSMIAN": "PRYSMIAN"}
+    },
+    {
+        "tipo": "Conductores Desnudos",
+        "subtipo": {"Acero-Cobre Puesta a Tierra": "Acero-Cobre Puesta a Tierra", "Cobre": "Cobre"},
+        "marca": {"ARGENPLAS": "ARGENPLAS", "ARRAYAN": "ARRAYAN", "FACBSA": "FACBSA", "GEN ROD": "GEN ROD", "IMSA": "IMSA", "PRYSMIAN": "PRYSMIAN"}
+    },
+    {
+        "tipo": "Conductores Envainados TBP",
+        "subtipo": {"0.50mm": "0.50mm", "0.75mm": "0.75mm", "1.00mm": "1.00mm", "1.50mm": "1.50mm", "2.50mm": "2.50mm"},
+        "marca": {"ARGENPLAS": "ARGENPLAS", "IMSA": "IMSA"}
+    },
+    {
+        "tipo": "Conductores Envainados TPR",
+        "subtipo": {" 0.50mm": " 0.50mm", " 0.75mm": " 0.75mm", " 1.00mm": " 1.00mm", " 1.50mm": " 1.50mm", " 2.50mm": " 2.50mm", " 4.00mm": " 4.00mm", " 6.00mm": " 6.00mm", "10.00mm": "10.00mm"},
+        "marca": {"ARGENPLAS": "ARGENPLAS", "ARRAYAN": "ARRAYAN", "IMSA": "IMSA", "PRYSMIAN": "PRYSMIAN"}
+    },
+    {
+        "tipo": "Conductores Instrumentacion",
+        "subtipo": {"Blindaje Aluminio": "Blindaje Aluminio", "Blindaje Estaño-Cobre": "Blindaje Estaño-Cobre", "Comando": "Comando", "Instalacion Contra Incendio": "Instalacion Contra Incendio"},
+        "marca": {"ARGENPLAS": "ARGENPLAS", "ARRAYAN": "ARRAYAN", "EPUYEN": "EPUYEN", "IMSA": "IMSA", "PRYSMIAN": "PRYSMIAN"}
+    },
+    {
+        "tipo": "Conductores LS0H 1.1kV",
+        "subtipo": {"   1.50mm": "   1.50mm", "   2.50mm": "   2.50mm", "   4.00mm": "   4.00mm", "   6.00mm": "   6.00mm", "  10.00mm": "  10.00mm", "  16.00mm": "  16.00mm", "  25.00mm": "  25.00mm", "  35.00mm": "  35.00mm", "  50.00mm": "  50.00mm", "  70.00mm": "  70.00mm", "  95.00mm": "  95.00mm", " 120.00mm": " 120.00mm", " 150.00mm": " 150.00mm", " 185.00mm": " 185.00mm", " 240.00mm": " 240.00mm", "Comando": "Comando"},
+        "marca": {"ARGENPLAS": "ARGENPLAS", "ARRAYAN": "ARRAYAN", "IMSA": "IMSA", "PRYSMIAN": "PRYSMIAN"}
+    },
+    {
+        "tipo": "Conductores Soldadura",
+        "subtipo": {"Soldadura": "Soldadura"},
+        "marca": {"ARGENPLAS": "ARGENPLAS", "IMSA": "IMSA", "PRYSMIAN": "PRYSMIAN"}
+    },
+    {
+        "tipo": "Conductores Subterraneos",
+        "subtipo": {"  1.50mm": "  1.50mm", "  2.50mm": "  2.50mm", "  4.00mm": "  4.00mm", "  6.00mm": "  6.00mm", " 10.00mm": " 10.00mm", " 16.00mm": " 16.00mm", " 25.00mm": " 25.00mm", " 35.00mm": " 35.00mm", " 50.00mm": " 50.00mm", " 70.00mm": " 70.00mm", " 95.00mm": " 95.00mm", "120.00mm": "120.00mm", "150.00mm": "150.00mm", "185.00mm": "185.00mm", "240.00mm": "240.00mm", "300.00mm": "300.00mm", "Comando": "Comando"},
+        "marca": {"ARGENPLAS": "ARGENPLAS", "ARRAYAN": "ARRAYAN", "IMSA": "IMSA", "PRYSMIAN": "PRYSMIAN"}
+    },
+    {
+        "tipo": "Conductores Telefonia",
+        "subtipo": {"Acometida": "Acometida", "Espiral": "Espiral", "Exterior": "Exterior", "Interior": "Interior", "Portero": "Portero", "Prolongador": "Prolongador"},
+        "marca": {"ARGENPLAS": "ARGENPLAS", "EPUYEN": "EPUYEN", "GENERICO": "GENERICO"}
+    },
+    {
+        "tipo": "Conductores Tendido Aereo",
+        "subtipo": {"Baja Tension": "Baja Tension", "Media Tension": "Media Tension"},
+        "marca": {"PRYSMIAN": "PRYSMIAN"}
+    },
+    {
+        "tipo": "Conductores Unipolares",
+        "subtipo": {"  0.75mm": "  0.75mm", "  1.00mm": "  1.00mm", "  1.50mm": "  1.50mm", "  2.50mm": "  2.50mm", "  4.00mm": "  4.00mm", "  6.00mm": "  6.00mm", " 10.00mm": " 10.00mm", " 16.00mm": " 16.00mm", " 25.00mm": " 25.00mm", " 35.00mm": " 35.00mm", " 50.00mm": " 50.00mm", " 70.00mm": " 70.00mm", " 95.00mm": " 95.00mm", "120.00mm": "120.00mm", "Unifilar": "Unifilar"},
+        "marca": {"ARGENPLAS": "ARGENPLAS", "ARRAYAN": "ARRAYAN", "IMSA": "IMSA", "PRYSMIAN": "PRYSMIAN"}
+    },
+    {
+        "tipo": "Conductores Unipolares LS0H",
+        "subtipo": {"   1.50mm": "   1.50mm", "   2.50mm": "   2.50mm", "   4.00mm": "   4.00mm", "   6.00mm": "   6.00mm", "  10.00mm": "  10.00mm", "  16.00mm": "  16.00mm", "  25.00mm": "  25.00mm", "  35.00mm": "  35.00mm", "  50.00mm": "  50.00mm", "  70.00mm": "  70.00mm", "  95.00mm": "  95.00mm"},
+        "marca": {"ARGENPLAS": "ARGENPLAS", "ARRAYAN": "ARRAYAN", "IMSA": "IMSA", "PRYSMIAN": "PRYSMIAN"}
+    },
+    {
+        "tipo": "Conductores Varios",
+        "subtipo": {"Acometida": "Acometida", "Alta Temperatura": "Alta Temperatura", "Interlock": "Interlock", "Parlante": "Parlante"},
+        "marca": {"EPUYEN": "EPUYEN", "GENERICO": "GENERICO", "IMSA": "IMSA", "TECNO-INDUSIL": "TECNO-INDUSIL"}
+    },
+    {
+        "tipo": "Conductos Bajo Piso",
+        "subtipo": {"Accesorio": "Accesorio", "Bajo Piso": "Bajo Piso"},
+        "marca": {"CAMBRE": "CAMBRE", "SAMET": "SAMET"}
+    },
+    {
+        "tipo": "Contactores",
+        "subtipo": {"Accesorio": "Accesorio", "Arranque Estrella-Triangulo": "Arranque Estrella-Triangulo", "Bobina": "Bobina", "Casetina": "Casetina", "Contactor Auxiliar": "Contactor Auxiliar", "Contactor Inversor": "Contactor Inversor", "Contactor Mini": "Contactor Mini", "Contactor Modular": "Contactor Modular", "Contactor Motor h/    7A": "Contactor Motor h/    7A", "Contactor Motor h/    9A": "Contactor Motor h/    9A", "Contactor Motor h/   12A": "Contactor Motor h/   12A", "Contactor Motor h/   18A": "Contactor Motor h/   18A", "Contactor Motor h/   25A": "Contactor Motor h/   25A", "Contactor Motor h/   32A": "Contactor Motor h/   32A", "Contactor Motor h/   38A": "Contactor Motor h/   38A", "Contactor Motor h/   40A": "Contactor Motor h/   40A", "Contactor Motor h/   50A": "Contactor Motor h/   50A", "Contactor Motor h/   65A": "Contactor Motor h/   65A", "Contactor Motor h/   80A": "Contactor Motor h/   80A", "Contactor Motor h/   95A": "Contactor Motor h/   95A", "Contactor Motor h/  115A": "Contactor Motor h/  115A", "Contactor Motor h/  130A": "Contactor Motor h/  130A", "Contactor Motor h/  150A": "Contactor Motor h/  150A", "Contactor Motor h/  185A": "Contactor Motor h/  185A", "Contactor Motor h/  225A": "Contactor Motor h/  225A", "Contactor Motor h/  265A": "Contactor Motor h/  265A", "Contactor Motor h/  300A": "Contactor Motor h/  300A", "Contactor Motor h/  330A": "Contactor Motor h/  330A", "Contactor Motor h/  400A": "Contactor Motor h/  400A", "Contactor Motor h/  500A": "Contactor Motor h/  500A", "Contactor Motor h/  630A": "Contactor Motor h/  630A", "Contactor Motor h/  800A": "Contactor Motor h/  800A", "Contactor Motor h/ 1000A": "Contactor Motor h/ 1000A", "Contactor Motor h/ 1250A": "Contactor Motor h/ 1250A", "Contactor Motor h/ 1350A": "Contactor Motor h/ 1350A", "Contactor Motor h/ 2000A": "Contactor Motor h/ 2000A", "Contactor Motor h/ 2650A": "Contactor Motor h/ 2650A", "Contactor Motor h/ 2850A": "Contactor Motor h/ 2850A", "Contactor Tetrapolar": "Contactor Tetrapolar", "Contactor p/Capacitor": "Contactor p/Capacitor", "Especial": "Especial", "Estado Solido": "Estado Solido", "Tesys U": "Tesys U"},
+        "marca": {"ABB": "ABB", "AEA": "AEA", "FINDER": "FINDER", "MONTERO": "MONTERO", "PHOENIX CONTACT": "PHOENIX CONTACT", "SCHNEIDER": "SCHNEIDER", "SICA": "SICA", "SIEMENS": "SIEMENS", "STECK": "STECK", "WEG": "WEG"}
+    },
+    {
+        "tipo": "Detectores Varios",
+        "subtipo": {"Detector Gas": "Detector Gas", "Detector Humo": "Detector Humo", "Detector Monoxido Carbono": "Detector Monoxido Carbono", "Detector Movimiento": "Detector Movimiento"},
+        "marca": {"COMMAX": "COMMAX", "FINDER": "FINDER", "GENERICO": "GENERICO", "HUAYRA": "HUAYRA", "LEDVANCE/OSRAM": "LEDVANCE/OSRAM", "SCHNEIDER": "SCHNEIDER", "SECUEN": "SECUEN", "SICA": "SICA"}
+    },
+    {
+        "tipo": "Domotica",
+        "subtipo": {"Accesorio": "Accesorio", "Cambre Ihaus": "Cambre Ihaus", "Control de Edificios": "Control de Edificios", "Hvac": "Hvac", "SIGNIFY Interact Pro": "SIGNIFY Interact Pro", "YESLY": "YESLY"},
+        "marca": {"CAMBRE": "CAMBRE", "FINDER": "FINDER", "PHILIPS": "PHILIPS", "SCHNEIDER": "SCHNEIDER"}
+    },
+    {
+        "tipo": "Electroimanes",
+        "subtipo": {"Electroiman": "Electroiman", "Electroiman Accesorio": "Electroiman Accesorio", "Solenoide": "Solenoide"},
+        "marca": {"ZOLODA": "ZOLODA"}
+    },
+    {
+        "tipo": "Empalmes Aislantes",
+        "subtipo": {"Accesorio": "Accesorio", "Conector": "Conector", "Contraible en Frio": "Contraible en Frio", "Gel Aislante": "Gel Aislante", "Media Tension": "Media Tension", "Minero": "Minero", "Resina Derivacion": "Resina Derivacion", "Resina Recto": "Resina Recto", "Slice": "Slice", "Termocontraible Recto": "Termocontraible Recto"},
+        "marca": {"3M": "3M", "GENERICO": "GENERICO", "HELLERMANN": "HELLERMANN", "LCT": "LCT", "MPGEL": "MPGEL", "PAMPACO": "PAMPACO", "PRYSMIAN": "PRYSMIAN", "SCAME": "SCAME", "VIYILANT": "VIYILANT"}
+    },
+    {
+        "tipo": "Energia Solar",
+        "subtipo": {"Energia Solar": "Energia Solar"},
+        "marca": {"ABB": "ABB", "ALIC": "ALIC", "GENERICO": "GENERICO", "MEGARED": "MEGARED", "PHILIPS": "PHILIPS", "PHOENIX CONTACT": "PHOENIX CONTACT", "SCHNEIDER": "SCHNEIDER"}
+    },
+    {
+        "tipo": "Equipos Emergencia",
+        "subtipo": {"Accesorio": "Accesorio", "Bajo Consumo": "Bajo Consumo", "Compacta 2P": "Compacta 2P", "LED": "LED", "Tubo T5/T8": "Tubo T5/T8"},
+        "marca": {"ARTELUM": "ARTELUM", "ATOMLUX": "ATOMLUX", "GAMA SONIC": "GAMA SONIC", "LEDVANCE/OSRAM": "LEDVANCE/OSRAM"}
+    },
+    {
+        "tipo": "Estabilizadores",
+        "subtipo": {"Computacion": "Computacion", "Ferro Resonante": "Ferro Resonante", "General Monofasico": "General Monofasico", "General Trifasico": "General Trifasico", "Inversor 12/220V": "Inversor 12/220V"},
+        "marca": {"ATOMLUX": "ATOMLUX", "GENERICO": "GENERICO", "MEGARED": "MEGARED"}
+    },
+    {
+        "tipo": "Estaciones De Carga",
+        "subtipo": {"Estacion de Carga": "Estacion de Carga"},
+        "marca": {"ABB": "ABB", "PHOENIX CONTACT": "PHOENIX CONTACT", "SCHNEIDER": "SCHNEIDER", "SIEMENS": "SIEMENS"}
+    },
+    {
+        "tipo": "Extractores Aire",
+        "subtipo": {"Extractor Aire": "Extractor Aire"},
+        "marca": {"SICA": "SICA"}
+    },
+    {
+        "tipo": "Farolas",
+        "subtipo": {"Farola": "Farola", "Farola LED": "Farola LED"},
+        "marca": {"ARTELUM": "ARTELUM", "LEDVANCE/OSRAM": "LEDVANCE/OSRAM", "LUCCIOLA": "LUCCIOLA", "LUMENAC": "LUMENAC"}
+    },
+    {
+        "tipo": "Faroles",
+        "subtipo": {"Farol": "Farol"},
+        "marca": {"LUCCIOLA": "LUCCIOLA"}
+    },
+    {
+        "tipo": "Fichas Circuitos Impresos",
+        "subtipo": {"Circuito Impreso": "Circuito Impreso"},
+        "marca": {"PHOENIX CONTACT": "PHOENIX CONTACT"}
+    },
+    {
+        "tipo": "Fichas Industriales",
+        "subtipo": {"Accesorio": "Accesorio", "Adaptador": "Adaptador", "Hembra": "Hembra", "Macho": "Macho", "Multipolar": "Multipolar", "NOD": "NOD", "TORCK": "TORCK"},
+        "marca": {"CONEXTUBE": "CONEXTUBE", "GABEXEL": "GABEXEL", "PHOENIX CONTACT": "PHOENIX CONTACT", "SCAME": "SCAME", "SCHNEIDER": "SCHNEIDER", "SICA": "SICA", "STECK": "STECK", "WEIDMULLER": "WEIDMULLER", "kALOP": "kALOP"}
+    },
+    {
+        "tipo": "Fichas Varias",
+        "subtipo": {"Adaptador": "Adaptador", "Audio": "Audio", "Conector Chasis": "Conector Chasis", "Domiciliaria": "Domiciliaria", "Especial": "Especial", "Schuko": "Schuko", "TV": "TV", "USB": "USB", "Velador": "Velador"},
+        "marca": {"ASANNO": "ASANNO", "CAMBRE": "CAMBRE", "GENERICO": "GENERICO", "PHOENIX CONTACT": "PHOENIX CONTACT", "RICHI": "RICHI", "SCAME": "SCAME", "VEFBEN": "VEFBEN", "WEIDMULLER": "WEIDMULLER", "kALOP": "kALOP"}
+    },
+    {
+        "tipo": "Fijaciones De Nylon",
+        "subtipo": {"Kit Tarugo+Tornillo": "Kit Tarugo+Tornillo", "Soporte de Aislamiento": "Soporte de Aislamiento", "Tarugo": "Tarugo"},
+        "marca": {"FISCHER": "FISCHER", "TACSA": "TACSA"}
+    },
+    {
+        "tipo": "Fijaciones Metalicas",
+        "subtipo": {"Broca Expandible": "Broca Expandible", "Clavo": "Clavo", "Impacto": "Impacto", "Piton": "Piton", "Tornillo de Hormigon": "Tornillo de Hormigon"},
+        "marca": {"FISCHER": "FISCHER"}
+    },
+    {
+        "tipo": "Fijaciones Quimicas",
+        "subtipo": {"Accesorio": "Accesorio", "Ampolla Quimica": "Ampolla Quimica", "Taco Quimico": "Taco Quimico", "Varilla": "Varilla"},
+        "marca": {"FISCHER": "FISCHER"}
+    },
+    {
+        "tipo": "Fotocontroles",
+        "subtipo": {"Fotocontrol": "Fotocontrol"},
+        "marca": {"ELT": "ELT", "LUMENAC": "LUMENAC", "RBC-SITEL": "RBC-SITEL", "SICA": "SICA", "kALOP": "kALOP"}
+    },
+    {
+        "tipo": "Fuentes Alimentacion",
+        "subtipo": {"Accesorio": "Accesorio", "DC/DC": "DC/DC", "Tension  5Vcc": "Tension  5Vcc", "Tension 12Vcc": "Tension 12Vcc", "Tension 15Vcc": "Tension 15Vcc", "Tension 24Vcc": "Tension 24Vcc", "Tension 48Vcc": "Tension 48Vcc", "UPS": "UPS"},
+        "marca": {"ABB": "ABB", "AEA": "AEA", "FINDER": "FINDER", "OMRON": "OMRON", "PHOENIX CONTACT": "PHOENIX CONTACT", "SCHNEIDER": "SCHNEIDER", "SIEMENS": "SIEMENS", "WEIDMULLER": "WEIDMULLER", "ZOLODA": "ZOLODA"}
+    },
+    {
+        "tipo": "Fusibles / Portafusibles",
+        "subtipo": {"Ceramico": "Ceramico", "Ceramico Portafusible": "Ceramico Portafusible", "Diazed": "Diazed", "Fusibles Varios": "Fusibles Varios", "Media Tension": "Media Tension", "NH Accesorio": "NH Accesorio", "NH Portafusible": "NH Portafusible", "NH T00": "NH T00", "NH T000": "NH T000", "NH T1": "NH T1", "NH T2": "NH T2", "NH T3": "NH T3", "NH T4": "NH T4", "NH Ultrarrapido T00": "NH Ultrarrapido T00", "NH Ultrarrapido T1": "NH Ultrarrapido T1", "NH Ultrarrapido T2": "NH Ultrarrapido T2", "NH Ultrarrapido T3": "NH Ultrarrapido T3", "Neozed": "Neozed", "Silized": "Silized", "Silized Portafusible": "Silized Portafusible", "Vidrio": "Vidrio", "Vidrio Portafusible": "Vidrio Portafusible"},
+        "marca": {"ABB": "ABB", "AEA": "AEA", "GEN ROD": "GEN ROD", "GENERICO": "GENERICO", "LCT": "LCT", "MONTERO": "MONTERO", "PHOENIX CONTACT": "PHOENIX CONTACT", "REPROEL": "REPROEL", "ROKER": "ROKER", "SCHNEIDER": "SCHNEIDER", "SICA": "SICA", "SIEMENS": "SIEMENS", "TEA (KELAND)": "TEA (KELAND)", "WEG": "WEG", "ZOLODA": "ZOLODA"}
+    },
+    {
+        "tipo": "Gabinetes Accesorios",
+        "subtipo": {"Accesorio": "Accesorio", "Carcasa p/Electronica": "Carcasa p/Electronica", "Sistema de Calefaccion": "Sistema de Calefaccion", "Sistema de Ventilacion": "Sistema de Ventilacion"},
+        "marca": {"ABB": "ABB", "CAMBRE": "CAMBRE", "CONEXTUBE": "CONEXTUBE", "FINDER": "FINDER", "GABEXEL": "GABEXEL", "GEN ROD": "GEN ROD", "GENERICO": "GENERICO", "LCT": "LCT", "PHOENIX CONTACT": "PHOENIX CONTACT", "ROKER": "ROKER", "SCAME": "SCAME", "SCHNEIDER": "SCHNEIDER", "STECK": "STECK", "TECNOBOX": "TECNOBOX"}
+    },
+    {
+        "tipo": "Gabinetes De Medicion",
+        "subtipo": {"Accesorio": "Accesorio", "Caja de Toma": "Caja de Toma", "Caja de Transformador": "Caja de Transformador", "Columna Medicion": "Columna Medicion", "Medidor Monofasico": "Medidor Monofasico", "Medidor Obra": "Medidor Obra", "Medidor Trifasico": "Medidor Trifasico"},
+        "marca": {"CONEXTUBE": "CONEXTUBE", "GEN ROD": "GEN ROD", "ROKER": "ROKER"}
+    },
+    {
+        "tipo": "Gabinetes Metalicos",
+        "subtipo": {"Accesorio": "Accesorio", "Armario Modular Gabexel": "Armario Modular Gabexel", "Armario Modular Gabexel Acc.": "Armario Modular Gabexel Acc.", "Armario Modular Genrod": "Armario Modular Genrod", "Armario Modular Genrod Acc.": "Armario Modular Genrod Acc.", "Armario Modular Schneider": "Armario Modular Schneider", "Armario Modular Schneider Acc.": "Armario Modular Schneider Acc.", "Armario Modular Tecnobox": "Armario Modular Tecnobox", "Armario Modular Tecnobox Acc.": "Armario Modular Tecnobox Acc.", "Caja Fuerte": "Caja Fuerte", "Capacitor": "Capacitor", "Estanco": "Estanco", "Estanco c/Ducto": "Estanco c/Ducto", "Petrolero": "Petrolero", "Protocolizado": "Protocolizado", "Pupitre": "Pupitre", "Subpanel": "Subpanel", "Tablero Bomba": "Tablero Bomba", "Tablero Transferencia": "Tablero Transferencia", "Toma Industrial": "Toma Industrial"},
+        "marca": {"ARTELUM": "ARTELUM", "ELECTRO UNIVERSO": "ELECTRO UNIVERSO", "GABEXEL": "GABEXEL", "GEN ROD": "GEN ROD", "GENERICO": "GENERICO", "SCHNEIDER": "SCHNEIDER", "TABLEPLAST": "TABLEPLAST", "TECNOBOX": "TECNOBOX", "WEG": "WEG"}
+    },
+    {
+        "tipo": "Gabinetes Plasticos",
+        "subtipo": {"ABB Gemini": "ABB Gemini", "ABB Mistral": "ABB Mistral", "Conextube Argenpol": "Conextube Argenpol", "Conextube Conexpol": "Conextube Conexpol", "Conextube Tablepol": "Conextube Tablepol", "Genrod Q Energy": "Genrod Q Energy", "Roker PRD": "Roker PRD", "Roker PRG": "Roker PRG", "Scame": "Scame", "Schneider Thalassa PLM": "Schneider Thalassa PLM", "Tableplast Serie G": "Tableplast Serie G", "Tableplast Serie MP": "Tableplast Serie MP", "Tablero Obra": "Tablero Obra", "Toma Industrial": "Toma Industrial", "Toma Industrial Accesorio": "Toma Industrial Accesorio"},
+        "marca": {"ABB": "ABB", "CAMBRE": "CAMBRE", "CONEXTUBE": "CONEXTUBE", "GABEXEL": "GABEXEL", "GEN ROD": "GEN ROD", "ROKER": "ROKER", "SCAME": "SCAME", "SCHNEIDER": "SCHNEIDER", "STECK": "STECK", "TABLEPLAST": "TABLEPLAST"}
+    },
+    {
+        "tipo": "Gestion De Motores",
+        "subtipo": {"Gestion de Motor": "Gestion de Motor"},
+        "marca": {"ABB": "ABB", "SCHNEIDER": "SCHNEIDER", "SIEMENS": "SIEMENS"}
+    },
+    {
+        "tipo": "Grampas Conexion",
+        "subtipo": {"Derivacion": "Derivacion", "Puesta a Tierra": "Puesta a Tierra"},
+        "marca": {"GABEXEL": "GABEXEL", "LCT": "LCT"}
+    },
+    {
+        "tipo": "Grampas Fijacion",
+        "subtipo": {"Fijacion Conductores": "Fijacion Conductores"},
+        "marca": {"FISCHER": "FISCHER", "PHOENIX CONTACT": "PHOENIX CONTACT", "TACSA": "TACSA", "kALOP": "kALOP"}
+    },
+    {
+        "tipo": "Guardalamparas",
+        "subtipo": {"Guardalampara": "Guardalampara"},
+        "marca": {"GENERICO": "GENERICO"}
+    },
+    {
+        "tipo": "Guardamotores",
+        "subtipo": {"Accesorio": "Accesorio", "Magnetico": "Magnetico", "Rango  0- 10A": "Rango  0- 10A", "Rango  10- 40A": "Rango  10- 40A", "Rango  40-100A": "Rango  40-100A", "Rango 100-500A": "Rango 100-500A"},
+        "marca": {"ABB": "ABB", "AEA": "AEA", "CONEXTUBE": "CONEXTUBE", "MONTERO": "MONTERO", "SCHNEIDER": "SCHNEIDER", "SICA": "SICA", "SIEMENS": "SIEMENS", "STECK": "STECK", "WEG": "WEG"}
+    },
+    {
+        "tipo": "Herramientas Electricas",
+        "subtipo": {"Amoladora": "Amoladora", "Bomba Periferica": "Bomba Periferica", "Caladora": "Caladora", "Compresor": "Compresor", "Guardalampara": "Guardalampara", "Hidrolavadora": "Hidrolavadora", "Mini Torno": "Mini Torno", "Pistola de Pegar": "Pistola de Pegar", "Rotomartillo": "Rotomartillo", "Soldador": "Soldador", "Taladro / Atornillador": "Taladro / Atornillador", "Taladro Percutor": "Taladro Percutor"},
+        "marca": {"BAHCO": "BAHCO", "BOSCH": "BOSCH", "DAEWOO": "DAEWOO", "ENERGIZER": "ENERGIZER", "GENERICO": "GENERICO", "SCAME": "SCAME", "SKIL": "SKIL", "kALOP": "kALOP"}
+    },
+    {
+        "tipo": "Herramientas Rubro Electrico",
+        "subtipo": {"Buscapolo": "Buscapolo", "Compresion Conductores": "Compresion Conductores", "Compresion de Terminales": "Compresion de Terminales", "Compresion de Terminales Hidraulica": "Compresion de Terminales Hidraulica", "Compresion de Terminales Hidraulica Acc.": "Compresion de Terminales Hidraulica Acc.", "Cortacable": "Cortacable", "Destornillador Aislado": "Destornillador Aislado", "Guante Aislante": "Guante Aislante", "Pelacable": "Pelacable", "Red Datos": "Red Datos", "Soldador Estaño": "Soldador Estaño", "Soldador Estaño Soldadura": "Soldador Estaño Soldadura", "Tijera": "Tijera"},
+        "marca": {"3M": "3M", "AMP": "AMP", "BAHCO": "BAHCO", "DELTA": "DELTA", "GABEXEL": "GABEXEL", "GENERICO": "GENERICO", "HELLERMANN": "HELLERMANN", "KRAFTEX": "KRAFTEX", "LCT": "LCT", "PHOENIX CONTACT": "PHOENIX CONTACT", "PRYSMIAN": "PRYSMIAN", "SCHNEIDER": "SCHNEIDER", "SICA": "SICA", "TBCIN": "TBCIN", "WEIDMULLER": "WEIDMULLER", "ZOLODA": "ZOLODA"}
+    },
+    {
+        "tipo": "Herramientas Rubro General",
+        "subtipo": {"Accesorio": "Accesorio", "Albañileria": "Albañileria", "Alicate General": "Alicate General", "Bolso / Mochila / Estuche": "Bolso / Mochila / Estuche", "Caja Para Herramientas": "Caja Para Herramientas", "Caja para Terminales": "Caja para Terminales", "Calibre": "Calibre", "Cargador de Bateria": "Cargador de Bateria", "Carpinteria": "Carpinteria", "Celular": "Celular", "Cinta Metrica": "Cinta Metrica", "Corta Rieles": "Corta Rieles", "Cortapernos": "Cortapernos", "Cortatubo": "Cortatubo", "Cuchillo / Hacha": "Cuchillo / Hacha", "Destornillador": "Destornillador", "Destornillador Torquimetro": "Destornillador Torquimetro", "Detector de Metal": "Detector de Metal", "Elevador Crique": "Elevador Crique", "Escuadra": "Escuadra", "Extractor": "Extractor", "Francesa": "Francesa", "Grupo Electrogeno": "Grupo Electrogeno", "Jardineria": "Jardineria", "Kits": "Kits", "Linterna": "Linterna", "Llave Allen": "Llave Allen", "Llave Fija / Combinada / Bocallave (Tubo)": "Llave Fija / Combinada / Bocallave (Tubo)", "Martillo/ Maza": "Martillo/ Maza", "Mecha": "Mecha", "Morsa": "Morsa", "Nivel": "Nivel", "Pertiga": "Pertiga", "Pinza": "Pinza", "Plomeria": "Plomeria", "Punta de Impacto": "Punta de Impacto", "Remachadora": "Remachadora", "Sargento": "Sargento", "Sierra / Serrucho": "Sierra / Serrucho", "Sierra Copa": "Sierra Copa", "Solar": "Solar", "Stillson": "Stillson", "Tenaza": "Tenaza", "Tijera": "Tijera", "Tijera Corta Chapa": "Tijera Corta Chapa", "Tronzadora": "Tronzadora", "Varios": "Varios"},
+        "marca": {"3M": "3M", "APC": "APC", "ATOMLUX": "ATOMLUX", "BAHCO": "BAHCO", "BOSCH": "BOSCH", "ENERGIZER": "ENERGIZER", "FINDER": "FINDER", "FISCHER": "FISCHER", "GABEXEL": "GABEXEL", "GENERICO": "GENERICO", "LCT": "LCT", "MACROLED": "MACROLED", "PHOENIX CONTACT": "PHOENIX CONTACT", "RAYOVAC": "RAYOVAC", "SCHNEIDER": "SCHNEIDER", "SICA": "SICA", "VIYILANT": "VIYILANT", "WEG": "WEG", "WEIDMULLER": "WEIDMULLER", "ZOLODA": "ZOLODA"}
+    },
+    {
+        "tipo": "IFM",
+        "subtipo": {"Lista Completa": "Lista Completa"},
+        "marca": {"IFM": "IFM"}
+    },
+    {
+        "tipo": "Identificadores Conductores",
+        "subtipo": {"Accesorio": "Accesorio", "Adhesivo": "Adhesivo", "Anillo": "Anillo", "Omega": "Omega"},
+        "marca": {"3M": "3M", "HELLERMANN": "HELLERMANN", "ZOLODA": "ZOLODA"}
+    },
+    {
+        "tipo": "Ignitores",
+        "subtipo": {"Ignitor": "Ignitor"},
+        "marca": {"ELT": "ELT"}
+    },
+    {
+        "tipo": "Indicadores Luminosos",
+        "subtipo": {"Accesorio": "Accesorio", "Montaje DIN": "Montaje DIN", "Montaje Panel Metalico": "Montaje Panel Metalico", "Montaje Panel Plastico": "Montaje Panel Plastico"},
+        "marca": {"ABB": "ABB", "AEA": "AEA", "CONEXTUBE": "CONEXTUBE", "GENERICO": "GENERICO", "OMRON": "OMRON", "SCHNEIDER": "SCHNEIDER", "SICA": "SICA", "SIEMENS": "SIEMENS", "STECK": "STECK", "TEA (KELAND)": "TEA (KELAND)", "VEFBEN": "VEFBEN", "WEG": "WEG"}
+    },
+    {
+        "tipo": "Industrial Controles",
+        "subtipo": {"Lista Completa": "Lista Completa"},
+        "marca": {"INDUSTRIAL CONTROLES": "INDUSTRIAL CONTROLES"}
+    },
+    {
+        "tipo": "Instalaciones Hospitalarias",
+        "subtipo": {"Instalacion Hospitalaria": "Instalacion Hospitalaria"},
+        "marca": {"ABB": "ABB", "SCHNEIDER": "SCHNEIDER"}
+    },
+    {
+        "tipo": "Instrumentos Medicion Portable",
+        "subtipo": {"Accesorio": "Accesorio", "Accesorio Puntas y Cables": "Accesorio Puntas y Cables", "Accesorio Sondas / Lazos de Corriente": "Accesorio Sondas / Lazos de Corriente", "Alta Tension": "Alta Tension", "Analizador y Registrador de Energia Electrica": "Analizador y Registrador de Energia Electrica", "Anemometro": "Anemometro", "Capacimetro": "Capacimetro", "Comprobador Instalaciones Electricas": "Comprobador Instalaciones Electricas", "Contador de Particulas": "Contador de Particulas", "Decibelimetro": "Decibelimetro", "Detector Fugas de Gas": "Detector Fugas de Gas", "Detector Tension Inductivo": "Detector Tension Inductivo", "Instrumentos Varios": "Instrumentos Varios", "KITs Combinados": "KITs Combinados", "Luxometro": "Luxometro", "Medidor de Distancia": "Medidor de Distancia", "Medidor de Nivel": "Medidor de Nivel", "Medidor de Potencia Solar": "Medidor de Potencia Solar", "Megohmetro": "Megohmetro", "Multimetro": "Multimetro", "Osciloscopio": "Osciloscopio", "Pinza Amperometrica": "Pinza Amperometrica", "Probador de Bateria": "Probador de Bateria", "Puntas de Prueba": "Puntas de Prueba", "Red Datos": "Red Datos", "Secuencimetro": "Secuencimetro", "Sistema de Localizacion": "Sistema de Localizacion", "Software": "Software", "Tacometro": "Tacometro", "Telurimetro": "Telurimetro", "Termohigrometro": "Termohigrometro", "Termometro IR": "Termometro IR", "Termometro p/Termocupla": "Termometro p/Termocupla"},
+        "marca": {"3M": "3M", "AMPROBE": "AMPROBE", "BAHCO": "BAHCO", "BOSCH": "BOSCH", "CAMBRE": "CAMBRE", "ELT": "ELT", "FLUKE": "FLUKE", "GENERICO": "GENERICO", "LUMENAC": "LUMENAC", "OMRON": "OMRON", "PHOENIX CONTACT": "PHOENIX CONTACT", "SICA": "SICA", "VEFBEN": "VEFBEN", "WEIDMULLER": "WEIDMULLER"}
+    },
+    {
+        "tipo": "Instrumentos Medicion Tableros",
+        "subtipo": {"Accesorio": "Accesorio", "Amperimetro Panel": "Amperimetro Panel", "Analizador Red": "Analizador Red", "Controlador Temperatura": "Controlador Temperatura", "Cuenta Eventos": "Cuenta Eventos", "Cuenta Horas": "Cuenta Horas", "Frecuencimetro": "Frecuencimetro", "Medidor Energia": "Medidor Energia", "Megohmetro": "Megohmetro", "Otros": "Otros", "Rele Varimetrico": "Rele Varimetrico", "Secuencimetro": "Secuencimetro", "Selector Automatico Fases": "Selector Automatico Fases", "Señal de Proceso": "Señal de Proceso", "Vatimetro": "Vatimetro", "Voltimetro DIN": "Voltimetro DIN", "Voltimetro Panel": "Voltimetro Panel", "Voltimetro-Amperimetro DIN": "Voltimetro-Amperimetro DIN", "Voltimetro-Amperimetro Panel": "Voltimetro-Amperimetro Panel"},
+        "marca": {"ABB": "ABB", "AEA": "AEA", "CIRCUTOR": "CIRCUTOR", "FINDER": "FINDER", "GENERICO": "GENERICO", "OMRON": "OMRON", "SCHNEIDER": "SCHNEIDER", "SIEMENS": "SIEMENS", "STUAR": "STUAR", "TBCIN": "TBCIN", "VEFBEN": "VEFBEN"}
+    },
+    {
+        "tipo": "Intercomunicadores",
+        "subtipo": {"Accesorio": "Accesorio", "Intercomunicador": "Intercomunicador"},
+        "marca": {"COMMAX": "COMMAX"}
+    },
+    {
+        "tipo": "Interruptor Dimmer",
+        "subtipo": {"Embutir": "Embutir", "Montaje DIN": "Montaje DIN"},
+        "marca": {"FINDER": "FINDER", "RBC-SITEL": "RBC-SITEL"}
+    },
+    {
+        "tipo": "Interruptores",
+        "subtipo": {"Digital": "Digital", "Embutir": "Embutir", "Embutir Electronica": "Embutir Electronica", "Embutir Inversor de Marcha": "Embutir Inversor de Marcha", "Montaje DIN": "Montaje DIN", "Pedal": "Pedal", "Velador": "Velador"},
+        "marca": {"ABB": "ABB", "AEA": "AEA", "ELIBET": "ELIBET", "GENERICO": "GENERICO", "NEUMANN": "NEUMANN", "RBC-SITEL": "RBC-SITEL", "RICHI": "RICHI", "SCHNEIDER": "SCHNEIDER", "SIEMENS": "SIEMENS", "STECK": "STECK", "TEA (KELAND)": "TEA (KELAND)", "VEFBEN": "VEFBEN", "ZOLODA": "ZOLODA", "kALOP": "kALOP"}
+    },
+    {
+        "tipo": "Interruptores Compactos",
+        "subtipo": {"Accesorio": "Accesorio", "Base Sin Rele 100-160A": "Base Sin Rele 100-160A", "Base Sin Rele 200-250A": "Base Sin Rele 200-250A", "Base Sin Rele 400-630A": "Base Sin Rele 400-630A", "Rango 0-160A": "Rango 0-160A", "Rango 200-250A": "Rango 200-250A", "Rango 250-400A": "Rango 250-400A", "Rango 400-630A": "Rango 400-630A", "Rango 630-1600A": "Rango 630-1600A", "Rele Proteccion": "Rele Proteccion"},
+        "marca": {"ABB": "ABB", "AEA": "AEA", "SCHNEIDER": "SCHNEIDER", "SICA": "SICA", "SIEMENS": "SIEMENS", "SIEMENS V": "SIEMENS V", "STECK": "STECK", "WEG": "WEG"}
+    },
+    {
+        "tipo": "Interruptores Conmutadores",
+        "subtipo": {"Accesorio": "Accesorio", "Automatica Mando Motor": "Automatica Mando Motor", "Bandeja Tablero": "Bandeja Tablero"},
+        "marca": {"ABB": "ABB", "AEA": "AEA", "SIEMENS": "SIEMENS", "VEFBEN": "VEFBEN", "WEG": "WEG", "ZOLODA": "ZOLODA"}
+    },
+    {
+        "tipo": "Interruptores Conmutadores Rotativos",
+        "subtipo": {"Accesorio": "Accesorio", "Embutir": "Embutir", "Embutir Conmutador Amperometrico": "Embutir Conmutador Amperometrico", "Embutir Conmutador Vatimetrico": "Embutir Conmutador Vatimetrico", "Embutir Conmutador Voltimetrico": "Embutir Conmutador Voltimetrico", "Embutir Dahlander": "Embutir Dahlander", "Embutir Electronica": "Embutir Electronica", "Embutir Especial": "Embutir Especial", "Embutir Estrella Triangulo": "Embutir Estrella Triangulo", "Embutir Inversor de Marcha": "Embutir Inversor de Marcha", "Embutir Selector de Fase": "Embutir Selector de Fase", "Embutir Servomotor": "Embutir Servomotor", "Exterior": "Exterior", "Exterior Dahlander": "Exterior Dahlander", "Exterior Estrella Triangulo": "Exterior Estrella Triangulo", "Exterior Inversor de Marcha": "Exterior Inversor de Marcha", "Exterior Selector de Fase": "Exterior Selector de Fase", "Montaje DIN": "Montaje DIN", "Montaje DIN Conmutador Amperometrico": "Montaje DIN Conmutador Amperometrico", "Montaje DIN Conmutador Voltimetrico": "Montaje DIN Conmutador Voltimetrico", "Montaje DIN Inversor de Marcha": "Montaje DIN Inversor de Marcha", "Montaje DIN Selector de Fase": "Montaje DIN Selector de Fase"},
+        "marca": {"AEA": "AEA", "GENERICO": "GENERICO", "SCHNEIDER": "SCHNEIDER", "STECK": "STECK", "VEFBEN": "VEFBEN", "WEG": "WEG", "ZOLODA": "ZOLODA"}
+    },
+    {
+        "tipo": "Interruptores Difer.C/Filtro",
+        "subtipo": {"Bloque Diferencial": "Bloque Diferencial", "Corriente  25A": "Corriente  25A", "Corriente  40A": "Corriente  40A", "Corriente  63A": "Corriente  63A"},
+        "marca": {"ABB": "ABB", "SCHNEIDER": "SCHNEIDER", "SIEMENS": "SIEMENS"}
+    },
+    {
+        "tipo": "Interruptores Diferenciales",
+        "subtipo": {"Accesorio": "Accesorio", "Aplicacion Especial": "Aplicacion Especial", "Bloque Diferencial": "Bloque Diferencial", "Corriente  16A": "Corriente  16A", "Corriente  25A": "Corriente  25A", "Corriente  40A": "Corriente  40A", "Corriente  63A": "Corriente  63A", "Corriente  80A": "Corriente  80A", "Corriente 100A": "Corriente 100A", "Corriente 125A": "Corriente 125A"},
+        "marca": {"ABB": "ABB", "AEA": "AEA", "ALIC": "ALIC", "CONEXTUBE": "CONEXTUBE", "GEN ROD": "GEN ROD", "ROKER": "ROKER", "SCHNEIDER": "SCHNEIDER", "SICA": "SICA", "SIEMENS": "SIEMENS", "STECK": "STECK", "WEG": "WEG", "ZOLODA": "ZOLODA"}
+    },
+    {
+        "tipo": "Interruptores Diferenciales Toroidales",
+        "subtipo": {"Montaje DIN": "Montaje DIN", "Montaje Panel": "Montaje Panel", "Transformador Toroidal": "Transformador Toroidal"},
+        "marca": {"ABB": "ABB", "SCHNEIDER": "SCHNEIDER", "SIEMENS": "SIEMENS"}
+    },
+    {
+        "tipo": "Interruptores En Aire",
+        "subtipo": {"Interruptor en Aire": "Interruptor en Aire"},
+        "marca": {"ABB": "ABB", "AEA": "AEA", "SCHNEIDER": "SCHNEIDER", "SIEMENS": "SIEMENS", "WEG": "WEG"}
+    },
+    {
+        "tipo": "Interruptores En Vacio",
+        "subtipo": {"Interruptor en Vacio": "Interruptor en Vacio"},
+        "marca": {"ABB": "ABB", "SCHNEIDER": "SCHNEIDER", "SIEMENS": "SIEMENS"}
+    },
+    {
+        "tipo": "Interruptores Horario",
+        "subtipo": {"Crepuscular": "Crepuscular", "Digital": "Digital", "Mecanico": "Mecanico"},
+        "marca": {"ABB": "ABB", "DIEHL": "DIEHL", "FINDER": "FINDER", "GENERICO": "GENERICO", "SCHNEIDER": "SCHNEIDER", "SICA": "SICA", "SIEMENS": "SIEMENS"}
+    },
+    {
+        "tipo": "Interruptores Rotativos",
+        "subtipo": {"Embutir": "Embutir", "Exterior": "Exterior"},
+        "marca": {"AEA": "AEA", "VEFBEN": "VEFBEN"}
+    },
+    {
+        "tipo": "Interruptores Seccionadores Caja Moldeada",
+        "subtipo": {"Rango 0-160A": "Rango 0-160A", "Rango 200-250A": "Rango 200-250A", "Rango 250-400A": "Rango 250-400A", "Rango 400-630A": "Rango 400-630A", "Rango 630-1600A": "Rango 630-1600A"},
+        "marca": {"ABB": "ABB", "SCHNEIDER": "SCHNEIDER"}
+    },
+    {
+        "tipo": "Interruptores Seccionadores Rebatibles",
+        "subtipo": {"Accesorio": "Accesorio", "Portafusible NH": "Portafusible NH", "Vertical": "Vertical", "Vertical Accesorio": "Vertical Accesorio"},
+        "marca": {"ABB": "ABB", "GEN ROD": "GEN ROD", "SCHNEIDER": "SCHNEIDER", "SICA": "SICA", "SIEMENS": "SIEMENS", "WEG": "WEG"}
+    },
+    {
+        "tipo": "Interruptores Seccionadores Rotativos",
+        "subtipo": {"Accesorio": "Accesorio", "C/Caja IP65": "C/Caja IP65", "Embutir": "Embutir", "Exterior": "Exterior", "Montaje Bandeja CON Proteccion": "Montaje Bandeja CON Proteccion", "Montaje Bandeja SIN Proteccion": "Montaje Bandeja SIN Proteccion", "Montaje DIN": "Montaje DIN"},
+        "marca": {"ABB": "ABB", "AEA": "AEA", "ELIBET": "ELIBET", "SCAME": "SCAME", "SCHNEIDER": "SCHNEIDER", "SIEMENS": "SIEMENS", "STECK": "STECK", "VEFBEN": "VEFBEN", "WEG": "WEG", "ZOLODA": "ZOLODA"}
+    },
+    {
+        "tipo": "Interruptores Termicos Especiales",
+        "subtipo": {"Accesorio": "Accesorio", "Especial": "Especial", "Interruptor de Control": "Interruptor de Control"},
+        "marca": {"PHOENIX CONTACT": "PHOENIX CONTACT", "SCHNEIDER": "SCHNEIDER"}
+    },
+    {
+        "tipo": "Interruptores Termomagneticos",
+        "subtipo": {"Accesorio": "Accesorio", "Corriente   0.5A": "Corriente   0.5A", "Corriente   1A": "Corriente   1A", "Corriente   2A": "Corriente   2A", "Corriente   3A": "Corriente   3A", "Corriente   4A": "Corriente   4A", "Corriente   6A": "Corriente   6A", "Corriente  10A": "Corriente  10A", "Corriente  16A": "Corriente  16A", "Corriente  20A": "Corriente  20A", "Corriente  25A": "Corriente  25A", "Corriente  32A": "Corriente  32A", "Corriente  40A": "Corriente  40A", "Corriente  50A": "Corriente  50A", "Corriente  63A": "Corriente  63A", "Corriente  80A": "Corriente  80A", "Corriente 100A": "Corriente 100A", "Corriente 125A": "Corriente 125A"},
+        "marca": {"ABB": "ABB", "AEA": "AEA", "ALIC": "ALIC", "CONEXTUBE": "CONEXTUBE", "GEN ROD": "GEN ROD", "ROKER": "ROKER", "SCHNEIDER": "SCHNEIDER", "SCHNEIDER V": "SCHNEIDER V", "SICA": "SICA", "SIEMENS": "SIEMENS", "SIEMENS V": "SIEMENS V", "STECK": "STECK", "WEG": "WEG", "ZOLODA": "ZOLODA"}
+    },
+    {
+        "tipo": "Jabalinas",
+        "subtipo": {"Accesorio": "Accesorio", "Caja Inspeccion": "Caja Inspeccion", "Jabalina": "Jabalina"},
+        "marca": {"DELGA": "DELGA", "FACBSA": "FACBSA", "GEN ROD": "GEN ROD", "LCT": "LCT"}
+    },
+    {
+        "tipo": "Juntas Flexibles",
+        "subtipo": {"Junta Flexible": "Junta Flexible"},
+        "marca": {"HELLERMANN": "HELLERMANN"}
+    },
+    {
+        "tipo": "Lamparas Bajo Consumo",
+        "subtipo": {"Compacta 2P": "Compacta 2P", "Compacta 4P": "Compacta 4P", "Espiral": "Espiral", "Reflectora": "Reflectora"},
+        "marca": {"ALIC": "ALIC", "LEDVANCE/OSRAM": "LEDVANCE/OSRAM"}
+    },
+    {
+        "tipo": "Lamparas Descarga",
+        "subtipo": {"M.H. Axial Rx7s": "M.H. Axial Rx7s", "M.H. Ovoidal": "M.H. Ovoidal", "M.H. Tubular": "M.H. Tubular", "Mercurio Ovoidal": "Mercurio Ovoidal", "Mezcladora Ovoidal": "Mezcladora Ovoidal", "S.A.P Ovoidal": "S.A.P Ovoidal", "S.A.P Tubular": "S.A.P Tubular"},
+        "marca": {"ALIC": "ALIC", "LEDVANCE/OSRAM": "LEDVANCE/OSRAM", "PHILIPS": "PHILIPS"}
+    },
+    {
+        "tipo": "Lamparas Halogenas",
+        "subtipo": {"Bipin": "Bipin", "Dicroica": "Dicroica", "ECO Decorativa": "ECO Decorativa", "Reflectora": "Reflectora"},
+        "marca": {"ALIC": "ALIC", "LEDVANCE/OSRAM": "LEDVANCE/OSRAM", "PHILIPS": "PHILIPS"}
+    },
+    {
+        "tipo": "Lamparas Incandescentes",
+        "subtipo": {"Baja Tension": "Baja Tension", "Especial": "Especial"},
+        "marca": {"ALIC": "ALIC", "LEDVANCE/OSRAM": "LEDVANCE/OSRAM"}
+    },
+    {
+        "tipo": "Lamparas LED",
+        "subtipo": {"Alta Potencia": "Alta Potencia", "Alta Potencia Acc.": "Alta Potencia Acc.", "Autonoma": "Autonoma", "Baja Tension": "Baja Tension", "Compacta 2P": "Compacta 2P", "Decorativa": "Decorativa", "Decorativa Filamento": "Decorativa Filamento", "Dicroica 12V": "Dicroica 12V", "Dicroica 220V": "Dicroica 220V", "Edison Bulbo": "Edison Bulbo", "Edison c/Sensor Mov.": "Edison c/Sensor Mov.", "Reflectora AR-111": "Reflectora AR-111", "Reflectora AR-70": "Reflectora AR-70", "Reflectora PAR 20": "Reflectora PAR 20", "Reflectora PAR 30": "Reflectora PAR 30", "Reflectora PAR 38": "Reflectora PAR 38", "Reflectora R63": "Reflectora R63", "Reflectora Rx7s": "Reflectora Rx7s"},
+        "marca": {"ALIC": "ALIC", "ARTELUM": "ARTELUM", "GENERICO": "GENERICO", "LEDVANCE/OSRAM": "LEDVANCE/OSRAM", "LUCCIOLA": "LUCCIOLA", "LUMENAC": "LUMENAC", "MACROLED": "MACROLED", "PHILIPS": "PHILIPS", "SECUEN": "SECUEN", "SICA": "SICA", "TBCIN": "TBCIN"}
+    },
+    {
+        "tipo": "Limitadores De Sobretension",
+        "subtipo": {"Instrumento de Prueba": "Instrumento de Prueba", "Limitador de Sobretension": "Limitador de Sobretension"},
+        "marca": {"ABB": "ABB", "FINDER": "FINDER", "OMRON": "OMRON", "PHOENIX CONTACT": "PHOENIX CONTACT", "SCHNEIDER": "SCHNEIDER", "SICA": "SICA", "SIEMENS": "SIEMENS", "STECK": "STECK", "WEG": "WEG"}
+    },
+    {
+        "tipo": "Limites De Carrera",
+        "subtipo": {"Accesorio": "Accesorio", "Metal": "Metal", "Plastico": "Plastico"},
+        "marca": {"AEA": "AEA", "NEUMANN": "NEUMANN", "OMRON": "OMRON", "SCHNEIDER": "SCHNEIDER", "SIEMENS": "SIEMENS", "STECK": "STECK"}
+    },
+    {
+        "tipo": "Luminarias Alumbrado Publico",
+        "subtipo": {"Accesorio": "Accesorio", "LED": "LED"},
+        "marca": {"ALIC": "ALIC", "ARTELUM": "ARTELUM", "LEDVANCE/OSRAM": "LEDVANCE/OSRAM", "LUCCIOLA": "LUCCIOLA", "LUMENAC": "LUMENAC", "MACROLED": "MACROLED", "MART": "MART", "PHILIPS": "PHILIPS", "SICA": "SICA"}
+    },
+    {
+        "tipo": "Luminarias Aplicar",
+        "subtipo": {"Aplique LED Cuadrado": "Aplique LED Cuadrado", "Aplique LED Panel": "Aplique LED Panel", "Aplique LED Rectangular": "Aplique LED Rectangular", "Aplique LED Redondo": "Aplique LED Redondo", "Combinado": "Combinado", "Decoracion Techo": "Decoracion Techo", "Decoracion Techo Cardanico": "Decoracion Techo Cardanico", "Regleta / Bases": "Regleta / Bases", "Tubo LED": "Tubo LED"},
+        "marca": {"ALIC": "ALIC", "ARTELUM": "ARTELUM", "GENERICO": "GENERICO", "LEDVANCE/OSRAM": "LEDVANCE/OSRAM", "LUCCIOLA": "LUCCIOLA", "LUMENAC": "LUMENAC", "MACROLED": "MACROLED", "PHILIPS": "PHILIPS", "PILA": "PILA", "RADIUM": "RADIUM", "SAN JUSTO": "SAN JUSTO", "SICA": "SICA", "TBCIN": "TBCIN"}
+    },
+    {
+        "tipo": "Luminarias De Escritorio",
+        "subtipo": {"Dicroica": "Dicroica", "Edison Bulbo": "Edison Bulbo", "LED": "LED"},
+        "marca": {"ATOMLUX": "ATOMLUX", "GENERICO": "GENERICO", "LUCCIOLA": "LUCCIOLA", "LUMENAC": "LUMENAC", "SICA": "SICA"}
+    },
+    {
+        "tipo": "Luminarias Embutir",
+        "subtipo": {"Accesorio": "Accesorio", "Decoracion Techo": "Decoracion Techo", "Decoracion Techo Cardanico": "Decoracion Techo Cardanico", "Embutido LED Cuadrado": "Embutido LED Cuadrado", "Embutido LED Panel": "Embutido LED Panel", "Embutido LED Rectangular": "Embutido LED Rectangular", "Embutido LED Redondo": "Embutido LED Redondo", "Embutido Tubo LED": "Embutido Tubo LED", "Embutido p/Lampara": "Embutido p/Lampara", "Embutido p/Piso": "Embutido p/Piso"},
+        "marca": {"ALIC": "ALIC", "ARTELUM": "ARTELUM", "GENERICO": "GENERICO", "LEDVANCE/OSRAM": "LEDVANCE/OSRAM", "LUCCIOLA": "LUCCIOLA", "LUMENAC": "LUMENAC", "MACROLED": "MACROLED", "PHILIPS": "PHILIPS", "PILA": "PILA", "RADIUM": "RADIUM", "SICA": "SICA", "TBCIN": "TBCIN"}
+    },
+    {
+        "tipo": "Luminarias Emergencia",
+        "subtipo": {"Accesorio": "Accesorio", "LED": "LED"},
+        "marca": {"ALIC": "ALIC", "ATOMLUX": "ATOMLUX", "GAMA SONIC": "GAMA SONIC", "GENERICO": "GENERICO", "MACROLED": "MACROLED", "SICA": "SICA"}
+    },
+    {
+        "tipo": "Luminarias Estancas",
+        "subtipo": {"LED": "LED", "Tubo LED": "Tubo LED"},
+        "marca": {"ARTELUM": "ARTELUM", "LEDVANCE/OSRAM": "LEDVANCE/OSRAM", "LUCCIOLA": "LUCCIOLA", "LUMENAC": "LUMENAC", "MACROLED": "MACROLED", "PHILIPS": "PHILIPS", "PILA": "PILA", "SICA": "SICA"}
+    },
+    {
+        "tipo": "Luminarias Industriales",
+        "subtipo": {"Campana LED": "Campana LED", "Pantalla Acc.": "Pantalla Acc.", "Pantalla Metal": "Pantalla Metal", "Pantalla Policarbonato": "Pantalla Policarbonato"},
+        "marca": {"ALIC": "ALIC", "DIMEC": "DIMEC", "GENERICO": "GENERICO", "LEDVANCE/OSRAM": "LEDVANCE/OSRAM", "LUCCIOLA": "LUCCIOLA", "LUMENAC": "LUMENAC", "MART": "MART", "MCA": "MCA", "PHILIPS": "PHILIPS", "SICA": "SICA"}
+    },
+    {
+        "tipo": "Luminarias Lineales",
+        "subtipo": {"Colgante LED": "Colgante LED", "Colgante LED Acc.": "Colgante LED Acc.", "Colgante p/Tubo LED": "Colgante p/Tubo LED", "Embutido LED": "Embutido LED", "Embutido LED Acc.": "Embutido LED Acc.", "Embutido p/Tubo Led": "Embutido p/Tubo Led"},
+        "marca": {"LUCCIOLA": "LUCCIOLA"}
+    },
+    {
+        "tipo": "Luminarias Listones",
+        "subtipo": {"Bajo Alacena": "Bajo Alacena", "Bajo Alacena LED": "Bajo Alacena LED", "LED": "LED", "Tubo LED": "Tubo LED", "Tubo LED Sist.Modular": "Tubo LED Sist.Modular", "Tubo LED Sist.Modular Acc.": "Tubo LED Sist.Modular Acc.", "Tubo T12": "Tubo T12", "Tubo T8": "Tubo T8"},
+        "marca": {"ALIC": "ALIC", "ARTELUM": "ARTELUM", "GENERICO": "GENERICO", "LEDVANCE/OSRAM": "LEDVANCE/OSRAM", "LUCCIOLA": "LUCCIOLA", "LUMENAC": "LUMENAC", "MACROLED": "MACROLED", "PHILIPS": "PHILIPS", "POLET": "POLET", "RADIUM": "RADIUM", "SAN JUSTO": "SAN JUSTO", "SICA": "SICA"}
+    },
+    {
+        "tipo": "Luminarias Repuestos",
+        "subtipo": {"Driver": "Driver", "Repuesto Signify": "Repuesto Signify", "Repuesto Ticar y Lucciola": "Repuesto Ticar y Lucciola"},
+        "marca": {"ALIC": "ALIC", "LUCCIOLA": "LUCCIOLA", "MACROLED": "MACROLED", "PHILIPS": "PHILIPS"}
+    },
+    {
+        "tipo": "Luminarias Solares",
+        "subtipo": {"Solar": "Solar"},
+        "marca": {"ALIC": "ALIC", "ARTELUM": "ARTELUM", "ATOMLUX": "ATOMLUX", "GENERICO": "GENERICO", "LUCCIOLA": "LUCCIOLA", "PHILIPS": "PHILIPS", "SCHNEIDER": "SCHNEIDER"}
+    },
+    {
+        "tipo": "Mantenimiento",
+        "subtipo": {"Accesorio": "Accesorio", "Aceite Lubricante": "Aceite Lubricante", "Alcohol Isopropilico": "Alcohol Isopropilico", "Computacion": "Computacion", "Electronica": "Electronica", "Espuma Limpieza": "Espuma Limpieza", "Grasas Varias": "Grasas Varias", "Laca Protectora": "Laca Protectora", "Limpiacontacto": "Limpiacontacto", "Limpiamanos": "Limpiamanos", "Removedor Particulas": "Removedor Particulas"},
+        "marca": {"DELTA": "DELTA", "HELLERMANN": "HELLERMANN"}
+    },
+    {
+        "tipo": "Media Tension",
+        "subtipo": {"Media Tension": "Media Tension"},
+        "marca": {"3M": "3M", "ABB": "ABB", "SCHNEIDER": "SCHNEIDER", "SIEMENS": "SIEMENS"}
+    },
+    {
+        "tipo": "Mercado Libre",
+        "subtipo": {"Mercado Libre": "Mercado Libre"},
+        "marca": {"3M": "3M", "ALIC": "ALIC", "AMPROBE": "AMPROBE", "APC": "APC", "ATOMLUX": "ATOMLUX", "BAHCO": "BAHCO", "BERNOLUX": "BERNOLUX", "BOSCH": "BOSCH", "CAMBRE": "CAMBRE", "COMMAX": "COMMAX", "CONEXTUBE": "CONEXTUBE", "DAEWOO": "DAEWOO", "ELENT": "ELENT", "EZVIZ": "EZVIZ", "FACBSA": "FACBSA", "GAMA SONIC": "GAMA SONIC", "GEN ROD": "GEN ROD", "GENERICO": "GENERICO", "LEDVANCE/OSRAM": "LEDVANCE/OSRAM", "PHILIPS": "PHILIPS", "PRYSMIAN": "PRYSMIAN", "SCAME": "SCAME", "SICA": "SICA", "SIEMENS": "SIEMENS", "VIYILANT": "VIYILANT", "ZOLODA": "ZOLODA"}
+    },
+    {
+        "tipo": "Meteriales Antiexplosivos",
+        "subtipo": {"Luminaria": "Luminaria"},
+        "marca": {"ABASTELEC": "ABASTELEC", "DELGA": "DELGA"}
+    },
+    {
+        "tipo": "Microinterruptores",
+        "subtipo": {"Accesorio": "Accesorio", "Microinterruptor": "Microinterruptor"},
+        "marca": {"AEA": "AEA", "GENERICO": "GENERICO", "NEUMANN": "NEUMANN", "OMRON": "OMRON", "ZOLODA": "ZOLODA"}
+    },
+    {
+        "tipo": "Monitores De Aislacion Industriales",
+        "subtipo": {"Aislacion": "Aislacion"},
+        "marca": {"ABB": "ABB", "SCHNEIDER": "SCHNEIDER"}
+    },
+    {
+        "tipo": "Monitores De Arco Electrico",
+        "subtipo": {"Arco Electrico": "Arco Electrico"},
+        "marca": {"ABB": "ABB"}
+    },
+    {
+        "tipo": "Monitores De Corriente",
+        "subtipo": {"Corriente": "Corriente"},
+        "marca": {"ABB": "ABB", "FINDER": "FINDER", "SCHNEIDER": "SCHNEIDER", "SIEMENS": "SIEMENS", "TELE HAASE": "TELE HAASE"}
+    },
+    {
+        "tipo": "Monitores De Frecuencia",
+        "subtipo": {"Frecuencia": "Frecuencia"},
+        "marca": {"SCHNEIDER": "SCHNEIDER"}
+    },
+    {
+        "tipo": "Monitores De Nivel",
+        "subtipo": {"Nivel de Liquido": "Nivel de Liquido"},
+        "marca": {"ABB": "ABB", "AEA": "AEA", "FINDER": "FINDER", "OMRON": "OMRON", "SCHNEIDER": "SCHNEIDER", "TELE HAASE": "TELE HAASE", "VIYILANT": "VIYILANT", "WEG": "WEG"}
+    },
+    {
+        "tipo": "Monitores De Temperatura",
+        "subtipo": {"Temperatura": "Temperatura"},
+        "marca": {"ABB": "ABB", "AEA": "AEA", "FINDER": "FINDER", "SIEMENS": "SIEMENS", "TELE HAASE": "TELE HAASE", "WEG": "WEG"}
+    },
+    {
+        "tipo": "Monitores De Tension",
+        "subtipo": {"Tension": "Tension"},
+        "marca": {"ABB": "ABB", "AEA": "AEA", "FINDER": "FINDER", "RBC-SITEL": "RBC-SITEL", "SCHNEIDER": "SCHNEIDER", "TELE HAASE": "TELE HAASE", "VEFBEN": "VEFBEN", "ZOLODA": "ZOLODA"}
+    },
+    {
+        "tipo": "Monitores de Velocidad",
+        "subtipo": {"Velocidad": "Velocidad"},
+        "marca": {"AEA": "AEA"}
+    },
+    {
+        "tipo": "Motores",
+        "subtipo": {"Accesorio": "Accesorio", "Monofasico": "Monofasico", "Trifasico": "Trifasico"},
+        "marca": {"SIEMENS": "SIEMENS", "WEG": "WEG"}
+    },
+    {
+        "tipo": "Pararrayos",
+        "subtipo": {"Accesorio": "Accesorio", "Pararrayo": "Pararrayo"},
+        "marca": {"FACBSA": "FACBSA"}
+    },
+    {
+        "tipo": "Periscopios",
+        "subtipo": {"Metalico": "Metalico", "Metalico Accesorio": "Metalico Accesorio", "Plastico": "Plastico", "Plastico Accesorio": "Plastico Accesorio"},
+        "marca": {"ASANNO": "ASANNO", "CAMBRE": "CAMBRE", "GABEXEL": "GABEXEL", "HELLERMANN": "HELLERMANN", "TALEMEC": "TALEMEC", "TECNOBOX": "TECNOBOX", "ZOLODA": "ZOLODA"}
+    },
+    {
+        "tipo": "Pilas",
+        "subtipo": {"Alcalina": "Alcalina", "Cargador": "Cargador", "Especial": "Especial", "Recargable": "Recargable"},
+        "marca": {"ENERGIZER": "ENERGIZER", "EVEREADY": "EVEREADY", "SICA": "SICA"}
+    },
+    {
+        "tipo": "Portalamparas",
+        "subtipo": {"Accesorio": "Accesorio", "Adaptador": "Adaptador", "Bakelita": "Bakelita", "Porcelana": "Porcelana", "Receptaculo": "Receptaculo"},
+        "marca": {"ALIC": "ALIC", "GENERICO": "GENERICO", "MACROLED": "MACROLED", "SAN JUSTO": "SAN JUSTO", "SICA": "SICA"}
+    },
+    {
+        "tipo": "Porteros Electricos",
+        "subtipo": {"Audio Multifamiliar": "Audio Multifamiliar", "Audio Unifamiliar": "Audio Unifamiliar", "Audio Unifamiliar Accesorio": "Audio Unifamiliar Accesorio", "Video Multifamiliar": "Video Multifamiliar", "Video Unifamiliar": "Video Unifamiliar", "Video Unifamiliar Accesorio": "Video Unifamiliar Accesorio"},
+        "marca": {"CAMBRE": "CAMBRE", "COMMAX": "COMMAX", "GENERICO": "GENERICO", "NETYER": "NETYER", "SICA": "SICA"}
+    },
+    {
+        "tipo": "Potenciometros",
+        "subtipo": {"Accesorio": "Accesorio", "Potenciometro": "Potenciometro"},
+        "marca": {"ABB": "ABB", "SCHNEIDER": "SCHNEIDER"}
+    },
+    {
+        "tipo": "Precintos",
+        "subtipo": {"Accesorio": "Accesorio", "Acero": "Acero", "Dentado": "Dentado", "Precinto": "Precinto", "Proteccion UV": "Proteccion UV", "Reutilizable": "Reutilizable"},
+        "marca": {"HELLERMANN": "HELLERMANN", "MACROLED": "MACROLED", "PHOENIX CONTACT": "PHOENIX CONTACT", "SCHNEIDER": "SCHNEIDER", "STECK": "STECK", "TACSA": "TACSA"}
+    },
+    {
+        "tipo": "Prensacables",
+        "subtipo": {"Accesorio": "Accesorio", "Metalico": "Metalico", "Plastico": "Plastico"},
+        "marca": {"CONEXTUBE": "CONEXTUBE", "PAMPACO": "PAMPACO", "PHOENIX CONTACT": "PHOENIX CONTACT", "SCAME": "SCAME", "SCHNEIDER": "SCHNEIDER", "STECK": "STECK", "TABLEPLAST": "TABLEPLAST"}
+    },
+    {
+        "tipo": "Prolongaciones / Bases",
+        "subtipo": {"Base Embutir": "Base Embutir", "Base Exterior": "Base Exterior", "Enrollacable": "Enrollacable", "Estacion de Carga": "Estacion de Carga", "Prolongacion Multiple": "Prolongacion Multiple", "Prolongacion Simple": "Prolongacion Simple"},
+        "marca": {"CAMBRE": "CAMBRE", "RICHI": "RICHI", "SCAME": "SCAME", "SCHNEIDER": "SCHNEIDER", "SICA": "SICA", "STECK": "STECK", "TBCIN": "TBCIN", "kALOP": "kALOP"}
+    },
+    {
+        "tipo": "Protectores De Tension",
+        "subtipo": {"General": "General", "Individual": "Individual"},
+        "marca": {"ATOMLUX": "ATOMLUX", "CAMBRE": "CAMBRE", "RBC-SITEL": "RBC-SITEL", "VEFBEN": "VEFBEN"}
+    },
+    {
+        "tipo": "Proyectores",
+        "subtipo": {"Cañon": "Cañon", "Descarga s/Portaeq.": "Descarga s/Portaeq.", "Edison Bulbo": "Edison Bulbo", "Halogena": "Halogena", "LED Alta Potencia": "LED Alta Potencia", "LED Baja Potencia": "LED Baja Potencia", "LED c/Sensor": "LED c/Sensor", "Wall Washer": "Wall Washer"},
+        "marca": {"ALIC": "ALIC", "ARTELUM": "ARTELUM", "GENERICO": "GENERICO", "LEDVANCE/OSRAM": "LEDVANCE/OSRAM", "LUCCIOLA": "LUCCIOLA", "LUMENAC": "LUMENAC", "MACROLED": "MACROLED", "PHILIPS": "PHILIPS", "PILA": "PILA", "RADIUM": "RADIUM", "SAN JUSTO": "SAN JUSTO", "SICA": "SICA", "TBCIN": "TBCIN"}
+    },
+    {
+        "tipo": "Reactores",
+        "subtipo": {"Reactor": "Reactor"},
+        "marca": {"ABB": "ABB"}
+    },
+    {
+        "tipo": "Redes Datos",
+        "subtipo": {"Accesorio": "Accesorio", "Cables HDMI/USB/RCA/Plug": "Cables HDMI/USB/RCA/Plug", "Canal de Tension": "Canal de Tension", "Conductor Red": "Conductor Red", "Conector Jack, Plug y Acc.": "Conector Jack, Plug y Acc.", "Fibra Optica": "Fibra Optica", "Patchcord": "Patchcord", "Rack": "Rack", "Rack Accesorio": "Rack Accesorio", "Refrigeracion": "Refrigeracion", "Roseta": "Roseta"},
+        "marca": {"AMP": "AMP", "ARGENPLAS": "ARGENPLAS", "EPUYEN": "EPUYEN", "FAYSER": "FAYSER", "FURUkAWA": "FURUkAWA", "GEN ROD": "GEN ROD", "GENERICO": "GENERICO", "HELLERMANN": "HELLERMANN", "OMRON": "OMRON", "PRYSMIAN": "PRYSMIAN", "SCHNEIDER": "SCHNEIDER", "TECNOBOX": "TECNOBOX", "WEIDMULLER": "WEIDMULLER"}
+    },
+    {
+        "tipo": "Reles Auxiliares",
+        "subtipo": {"Estado Solido": "Estado Solido", "Rele Auxiliar 1 INV": "Rele Auxiliar 1 INV", "Rele Auxiliar 2 INV": "Rele Auxiliar 2 INV", "Rele Auxiliar 3 INV": "Rele Auxiliar 3 INV", "Rele Auxiliar 4 INV": "Rele Auxiliar 4 INV", "Rele Auxiliar Accesorio": "Rele Auxiliar Accesorio", "Rele Auxiliar Circuito Impreso 1 INV": "Rele Auxiliar Circuito Impreso 1 INV", "Rele Auxiliar Circuito Impreso 2 INV": "Rele Auxiliar Circuito Impreso 2 INV", "Rele Auxiliar Circuito Impreso 3 INV": "Rele Auxiliar Circuito Impreso 3 INV", "Rele Auxiliar Circuito Impreso 4 INV": "Rele Auxiliar Circuito Impreso 4 INV", "Rele Auxiliar Circuito Impreso Accesorio": "Rele Auxiliar Circuito Impreso Accesorio", "Rele Auxiliar Circuito Impreso Estado Solido": "Rele Auxiliar Circuito Impreso Estado Solido"},
+        "marca": {"AEA": "AEA", "FINDER": "FINDER", "OMRON": "OMRON", "SCHNEIDER": "SCHNEIDER", "SIEMENS": "SIEMENS"}
+    },
+    {
+        "tipo": "Reles Inteligentes",
+        "subtipo": {"AEA Teco": "AEA Teco", "Schneider Zelio": "Schneider Zelio", "Siemens Logo V8": "Siemens Logo V8", "Zoloda RCZ-LOGIC": "Zoloda RCZ-LOGIC"},
+        "marca": {"AEA": "AEA", "SCHNEIDER": "SCHNEIDER", "SIEMENS": "SIEMENS", "ZOLODA": "ZOLODA"}
+    },
+    {
+        "tipo": "Reles Interfaces",
+        "subtipo": {"Accesorio": "Accesorio", "Interfaz PLC": "Interfaz PLC"},
+        "marca": {"ABB": "ABB", "AEA": "AEA", "FINDER": "FINDER", "OMRON": "OMRON", "PHOENIX CONTACT": "PHOENIX CONTACT", "SCHNEIDER": "SCHNEIDER", "WEIDMULLER": "WEIDMULLER", "ZOLODA": "ZOLODA"}
+    },
+    {
+        "tipo": "Reles Prot. Electronicos",
+        "subtipo": {"Accesorio": "Accesorio", "Rango   0- 10A": "Rango   0- 10A", "Rango  10- 40A": "Rango  10- 40A", "Rango  40-100A": "Rango  40-100A", "Rango 100-1000A": "Rango 100-1000A"},
+        "marca": {"ABB": "ABB", "SCHNEIDER": "SCHNEIDER", "SIEMENS": "SIEMENS", "WEG": "WEG"}
+    },
+    {
+        "tipo": "Reles Prot. Termicos",
+        "subtipo": {"Accesorio": "Accesorio", "Rango   0- 10A": "Rango   0- 10A", "Rango  10- 40A": "Rango  10- 40A", "Rango  40-100A": "Rango  40-100A", "Rango 100-1000A": "Rango 100-1000A"},
+        "marca": {"ABB": "ABB", "AEA": "AEA", "MONTERO": "MONTERO", "SCHNEIDER": "SCHNEIDER", "SICA": "SICA", "SIEMENS": "SIEMENS", "STECK": "STECK"}
+    },
+    {
+        "tipo": "Repartidores De Tension",
+        "subtipo": {"Repartidor": "Repartidor", "Repartidor DIN": "Repartidor DIN"},
+        "marca": {"ELENT": "ELENT", "PAMPACO": "PAMPACO", "SCHNEIDER": "SCHNEIDER", "STECK": "STECK", "ZOLODA": "ZOLODA"}
+    },
+    {
+        "tipo": "Rieles Fijacion",
+        "subtipo": {"Accesorio": "Accesorio", "Riel DIN": "Riel DIN", "Riel DIN Accesorio": "Riel DIN Accesorio", "Riel Olmar": "Riel Olmar", "Riel Olmar Accesorio": "Riel Olmar Accesorio"},
+        "marca": {"ACERTUBO": "ACERTUBO", "AEA": "AEA", "GABEXEL": "GABEXEL", "GEN ROD": "GEN ROD", "METALURGICA AG": "METALURGICA AG", "PHOENIX CONTACT": "PHOENIX CONTACT", "TECNOBOX": "TECNOBOX", "ZOLODA": "ZOLODA"}
+    },
+    {
+        "tipo": "Rieles Iluminacion",
+        "subtipo": {"Accesorio": "Accesorio"},
+        "marca": {"ARTELUM": "ARTELUM", "LEDVANCE/OSRAM": "LEDVANCE/OSRAM", "LUCCIOLA": "LUCCIOLA"}
+    },
+    {
+        "tipo": "Rotuladoras",
+        "subtipo": {"Accesorio": "Accesorio", "Rotuladora": "Rotuladora"},
+        "marca": {"BROTHER": "BROTHER", "PHOENIX CONTACT": "PHOENIX CONTACT"}
+    },
+    {
+        "tipo": "Seguridad En Maquinas",
+        "subtipo": {"Seguridad en Maquina": "Seguridad en Maquina"},
+        "marca": {"ABB": "ABB", "AEA": "AEA", "FINDER": "FINDER", "PHOENIX CONTACT": "PHOENIX CONTACT", "SCHNEIDER": "SCHNEIDER", "SIEMENS": "SIEMENS"}
+    },
+    {
+        "tipo": "Selectoras",
+        "subtipo": {"Manipulador": "Manipulador", "Montaje DIN": "Montaje DIN", "Montaje Panel Accesorio": "Montaje Panel Accesorio", "Montaje Panel Metalica": "Montaje Panel Metalica", "Montaje Panel Plastica": "Montaje Panel Plastica"},
+        "marca": {"ABB": "ABB", "AEA": "AEA", "CONEXTUBE": "CONEXTUBE", "OMRON": "OMRON", "SCHNEIDER": "SCHNEIDER", "SICA": "SICA", "SIEMENS": "SIEMENS", "STECK": "STECK", "TBCIN": "TBCIN", "VEFBEN": "VEFBEN", "WEG": "WEG"}
+    },
+    {
+        "tipo": "Semaforos",
+        "subtipo": {"Accesorio": "Accesorio", "LED": "LED"},
+        "marca": {"GENERICO": "GENERICO", "KINGVOX": "KINGVOX"}
+    },
+    {
+        "tipo": "Sensores Industriales",
+        "subtipo": {"Accesorio": "Accesorio", "Capacitivo": "Capacitivo", "Fotoelectrico": "Fotoelectrico", "Inductivo": "Inductivo", "Magnetico": "Magnetico", "Presostato": "Presostato", "Ultrasonido": "Ultrasonido"},
+        "marca": {"AEA": "AEA", "NEUMANN": "NEUMANN", "OMRON": "OMRON", "PHOENIX CONTACT": "PHOENIX CONTACT", "SCHNEIDER": "SCHNEIDER", "STUAR": "STUAR", "WEIDMULLER": "WEIDMULLER"}
+    },
+    {
+        "tipo": "Señalizacion Industrial",
+        "subtipo": {"Baliza": "Baliza", "Faro": "Faro", "Modular": "Modular"},
+        "marca": {"KINGVOX": "KINGVOX", "PHOENIX CONTACT": "PHOENIX CONTACT", "SCHNEIDER": "SCHNEIDER", "SIEMENS": "SIEMENS", "TBCIN": "TBCIN"}
+    },
+    {
+        "tipo": "Señalizacion Vial y Acc.",
+        "subtipo": {"Barral Señalizacion": "Barral Señalizacion", "Señalizacion Vial": "Señalizacion Vial"},
+        "marca": {"KINGVOX": "KINGVOX", "SCHNEIDER": "SCHNEIDER"}
+    },
+    {
+        "tipo": "Señalizadores Emergencia",
+        "subtipo": {"LED": "LED"},
+        "marca": {"ALIC": "ALIC", "ATOMLUX": "ATOMLUX", "GAMA SONIC": "GAMA SONIC", "LUCCIOLA": "LUCCIOLA", "SICA": "SICA"}
+    },
+    {
+        "tipo": "Sirenas",
+        "subtipo": {"Sirena": "Sirena"},
+        "marca": {"KINGVOX": "KINGVOX", "SCHNEIDER": "SCHNEIDER"}
+    },
+    {
+        "tipo": "Spots Embutir",
+        "subtipo": {"AR-111": "AR-111", "Accesorio": "Accesorio", "Dicroica": "Dicroica", "LED": "LED", "Par 30": "Par 30"},
+        "marca": {"ALIC": "ALIC", "ARTELUM": "ARTELUM", "GENERICO": "GENERICO", "LEDVANCE/OSRAM": "LEDVANCE/OSRAM", "LUCCIOLA": "LUCCIOLA", "LUMENAC": "LUMENAC", "MACROLED": "MACROLED", "PHILIPS": "PHILIPS", "RADIUM": "RADIUM", "SICA": "SICA"}
+    },
+    {
+        "tipo": "Teclas Cambre",
+        "subtipo": {"Arte": "Arte", "Bauhaus": "Bauhaus", "Linea Exterior": "Linea Exterior", "Linea Hospitalaria": "Linea Hospitalaria", "Modulo General": "Modulo General", "Señaletica Leds": "Señaletica Leds", "Siglo XXI": "Siglo XXI", "Siglo XXII": "Siglo XXII"},
+        "marca": {"CAMBRE": "CAMBRE"}
+    },
+    {
+        "tipo": "Teclas Jeluz",
+        "subtipo": {"Cristal": "Cristal", "Linea Exterior": "Linea Exterior", "Modulo Platinum": "Modulo Platinum", "Modulo Verona General": "Modulo Verona General", "Platinum": "Platinum", "Verona 2000": "Verona 2000", "Verona BO": "Verona BO", "Verona Mito": "Verona Mito", "Verona Regina": "Verona Regina"},
+        "marca": {"JELUZ": "JELUZ", "RBC-SITEL": "RBC-SITEL"}
+    },
+    {
+        "tipo": "Teclas Richi",
+        "subtipo": {"Linea Era": "Linea Era", "Linea Geo": "Linea Geo", "Linea NET5": "Linea NET5", "Modulo General": "Modulo General", "Richi": "Richi"},
+        "marca": {"RICHI": "RICHI"}
+    },
+    {
+        "tipo": "Teclas Schneider",
+        "subtipo": {"Base": "Base", "Merten": "Merten", "Modulo Roda General": "Modulo Roda General", "Roda": "Roda", "Roda Class": "Roda Class", "Roda Estanco": "Roda Estanco"},
+        "marca": {"RBC-SITEL": "RBC-SITEL", "SCHNEIDER": "SCHNEIDER"}
+    },
+    {
+        "tipo": "Teclas Sica",
+        "subtipo": {"Life": "Life", "Linea Exterior": "Linea Exterior", "Modulo General": "Modulo General", "Silight Brava": "Silight Brava", "Silight By Pininfarina": "Silight By Pininfarina"},
+        "marca": {"RBC-SITEL": "RBC-SITEL", "SICA": "SICA"}
+    },
+    {
+        "tipo": "Teclas kAlop",
+        "subtipo": {"Linea Exterior": "Linea Exterior"},
+        "marca": {"kALOP": "kALOP"}
+    },
+    {
+        "tipo": "Telerruptores",
+        "subtipo": {"Telerruptor": "Telerruptor"},
+        "marca": {"ABB": "ABB", "FINDER": "FINDER", "SCHNEIDER": "SCHNEIDER", "SIEMENS": "SIEMENS"}
+    },
+    {
+        "tipo": "Temporizadores",
+        "subtipo": {"Accesorio": "Accesorio", "Automatico p/Escalera": "Automatico p/Escalera", "Automatico p/Escalera Acc.": "Automatico p/Escalera Acc.", "Ciclador Asimetrico": "Ciclador Asimetrico", "Ciclador Bombas": "Ciclador Bombas", "Estrella-Triangulo": "Estrella-Triangulo", "Multifuncion / Ret.Conexion": "Multifuncion / Ret.Conexion", "Pulsos": "Pulsos", "Retardo Desconexion": "Retardo Desconexion"},
+        "marca": {"ABB": "ABB", "AEA": "AEA", "EL SERENO": "EL SERENO", "ELIBET": "ELIBET", "FINDER": "FINDER", "MONTERO": "MONTERO", "OMRON": "OMRON", "PHOENIX CONTACT": "PHOENIX CONTACT", "RBC-SITEL": "RBC-SITEL", "SCHNEIDER": "SCHNEIDER", "SECUEN": "SECUEN", "SICA": "SICA", "SIEMENS": "SIEMENS", "STECK": "STECK", "TELE HAASE": "TELE HAASE", "VEFBEN": "VEFBEN", "VIYILANT": "VIYILANT", "WEG": "WEG", "ZOLODA": "ZOLODA"}
+    },
+    {
+        "tipo": "Terminales",
+        "subtipo": {"Accesorio": "Accesorio", "Ajustable a tornillo": "Ajustable a tornillo", "Aluminio": "Aluminio", "Bimetalico": "Bimetalico", "Bronce": "Bronce", "Cobre Estaño": "Cobre Estaño", "Cobre Estaño Media tension": "Cobre Estaño Media tension", "Conector Media Tension": "Conector Media Tension", "Conector en C / G": "Conector en C / G", "Laton": "Laton", "Preaislado": "Preaislado", "Preaislado Potencia": "Preaislado Potencia", "Puntera Aislada": "Puntera Aislada", "Puntera Sin Aislacion": "Puntera Sin Aislacion", "Sin Aislacion": "Sin Aislacion", "Union Ajustable a tornillo": "Union Ajustable a tornillo", "Union Aluminio": "Union Aluminio", "Union Aluminio Media tension": "Union Aluminio Media tension", "Union Cobre Estaño": "Union Cobre Estaño"},
+        "marca": {"GABEXEL": "GABEXEL", "LCT": "LCT", "PHOENIX CONTACT": "PHOENIX CONTACT", "PRYSMIAN": "PRYSMIAN", "SCHNEIDER": "SCHNEIDER", "WEIDMULLER": "WEIDMULLER", "ZOLODA": "ZOLODA"}
+    },
+    {
+        "tipo": "Terminales Aislantes",
+        "subtipo": {"Contraible en Frio": "Contraible en Frio", "Elastico MT": "Elastico MT", "Resina BT": "Resina BT", "Termocontraible BT": "Termocontraible BT"},
+        "marca": {"3M": "3M", "PAMPACO": "PAMPACO", "PRYSMIAN": "PRYSMIAN"}
+    },
+    {
+        "tipo": "Termostatos",
+        "subtipo": {"Digital": "Digital", "Electro Mecanico": "Electro Mecanico"},
+        "marca": {"DIEHL": "DIEHL", "FINDER": "FINDER"}
+    },
+    {
+        "tipo": "Tomas Industriales",
+        "subtipo": {"Accesorio": "Accesorio", "Embutir": "Embutir", "Exterior": "Exterior", "Schuko": "Schuko"},
+        "marca": {"CAMBRE": "CAMBRE", "CONEXTUBE": "CONEXTUBE", "SCAME": "SCAME", "SCHNEIDER": "SCHNEIDER", "SICA": "SICA", "STECK": "STECK", "kALOP": "kALOP"}
+    },
+    {
+        "tipo": "Transformadores",
+        "subtipo": {"Electronico 220/12V": "Electronico 220/12V", "Magnetico 220/ 12V": "Magnetico 220/ 12V", "Magnetico 220/ 24V": "Magnetico 220/ 24V", "Magnetico 220/110V": "Magnetico 220/110V", "Magnetico 380/ 24V": "Magnetico 380/ 24V", "Multitension": "Multitension", "Pileta": "Pileta", "Toroidal 220/12V": "Toroidal 220/12V"},
+        "marca": {"DILOC": "DILOC", "GENERICO": "GENERICO", "LOMBARD": "LOMBARD", "LUCCIOLA": "LUCCIOLA", "MEGARED": "MEGARED", "PHILIPS": "PHILIPS", "SCAME": "SCAME"}
+    },
+    {
+        "tipo": "Transformadores De Medicion",
+        "subtipo": {"Shunt": "Shunt", "Transformador Intensidad": "Transformador Intensidad"},
+        "marca": {"ABB": "ABB", "AEA": "AEA", "CIRCUTOR": "CIRCUTOR", "PHOENIX CONTACT": "PHOENIX CONTACT", "SCHNEIDER": "SCHNEIDER", "SIEMENS": "SIEMENS"}
+    },
+    {
+        "tipo": "Tubos Aislantes",
+        "subtipo": {"Contraible en Frio": "Contraible en Frio", "Plastico": "Plastico", "Silicona": "Silicona", "Tela": "Tela", "Termocontraible CON Adhesivo": "Termocontraible CON Adhesivo", "Termocontraible SIN Adhesivo": "Termocontraible SIN Adhesivo"},
+        "marca": {"3M": "3M", "GENERICO": "GENERICO", "PRYSMIAN": "PRYSMIAN", "TACSA": "TACSA", "TECNO-INDUSIL": "TECNO-INDUSIL", "VIYILANT": "VIYILANT"}
+    },
+    {
+        "tipo": "Tubos Fluorescentes",
+        "subtipo": {"Circular": "Circular", "Formato T5": "Formato T5", "Formato T8": "Formato T8"},
+        "marca": {"ALIC": "ALIC", "LEDVANCE/OSRAM": "LEDVANCE/OSRAM"}
+    },
+    {
+        "tipo": "Tubos LED",
+        "subtipo": {"Tubo LED (=105W) 3000K": "Tubo LED (=105W) 3000K", "Tubo LED (=105W) 4000K": "Tubo LED (=105W) 4000K", "Tubo LED (=105W) 6500K": "Tubo LED (=105W) 6500K", "Tubo LED (=18W) 3000K": "Tubo LED (=18W) 3000K", "Tubo LED (=18W) 4000K": "Tubo LED (=18W) 4000K", "Tubo LED (=18W) 6500K": "Tubo LED (=18W) 6500K", "Tubo LED (=30W) 3000K": "Tubo LED (=30W) 3000K", "Tubo LED (=30W) 4000K": "Tubo LED (=30W) 4000K", "Tubo LED (=30W) 6500K": "Tubo LED (=30W) 6500K", "Tubo LED (=36W) 3000K": "Tubo LED (=36W) 3000K", "Tubo LED (=36W) 4000K": "Tubo LED (=36W) 4000K", "Tubo LED (=36W) 6500K": "Tubo LED (=36W) 6500K", "Tubo LED (=58W) 3000K": "Tubo LED (=58W) 3000K", "Tubo LED (=58W) 4000K": "Tubo LED (=58W) 4000K", "Tubo LED (=58W) 6500K": "Tubo LED (=58W) 6500K", "Tubo LED Autonomo": "Tubo LED Autonomo", "Tubo LED Sensor": "Tubo LED Sensor", "Tubo LED T5 (=14W) 3000K": "Tubo LED T5 (=14W) 3000K", "Tubo LED T5 (=14W) 4000K": "Tubo LED T5 (=14W) 4000K", "Tubo LED T5 (=14W) 6500K": "Tubo LED T5 (=14W) 6500K", "Tubo LED T5 (=28W) 3000K": "Tubo LED T5 (=28W) 3000K", "Tubo LED T5 (=28W) 4000K": "Tubo LED T5 (=28W) 4000K", "Tubo LED T5 (=28W) 6500K": "Tubo LED T5 (=28W) 6500K", "Tubo LED T5 (=54W) 3000K": "Tubo LED T5 (=54W) 3000K", "Tubo LED T5 (=54W) 4000K": "Tubo LED T5 (=54W) 4000K", "Tubo LED T5 (=54W) 6500K": "Tubo LED T5 (=54W) 6500K"},
+        "marca": {"ALIC": "ALIC", "GENERICO": "GENERICO", "LEDVANCE/OSRAM": "LEDVANCE/OSRAM", "LUCCIOLA": "LUCCIOLA", "LUMENAC": "LUMENAC", "MACROLED": "MACROLED", "PHILIPS": "PHILIPS", "SICA": "SICA", "TBCIN": "TBCIN"}
+    },
+    {
+        "tipo": "UPS",
+        "subtipo": {"IT Service": "IT Service", "Refrigeracion": "Refrigeracion", "Sistemas de Gestion": "Sistemas de Gestion", "UPS Accesorio": "UPS Accesorio", "UPS Monofasica": "UPS Monofasica", "UPS Trifasica": "UPS Trifasica", "UPS_Galaxy + Acc.": "UPS_Galaxy + Acc.", "UPS_Symmetra + Acc.": "UPS_Symmetra + Acc."},
+        "marca": {"ABB": "ABB", "APC": "APC", "ATOMLUX": "ATOMLUX", "MEGARED": "MEGARED"}
+    },
+    {
+        "tipo": "Variadores De Velocidad",
+        "subtipo": {"ABB ACH480": "ABB ACH480", "ABB ACQ580": "ABB ACQ580", "ABB ACS150": "ABB ACS150", "ABB ACS310": "ABB ACS310", "ABB ACS355": "ABB ACS355", "ABB ACS480": "ABB ACS480", "ABB ACS55": "ABB ACS55", "ABB ACS580": "ABB ACS580", "ABB ACS880": "ABB ACS880", "ABB Accesorio": "ABB Accesorio", "AEA Accesorio": "AEA Accesorio", "AEA SWP": "AEA SWP", "AEA SY5000": "AEA SY5000", "AEA SY6600": "AEA SY6600", "AEA SY8000": "AEA SY8000", "KINCO": "KINCO", "Schneider Accesorio": "Schneider Accesorio", "Schneider Altivar 11": "Schneider Altivar 11", "Schneider Altivar 12": "Schneider Altivar 12", "Schneider Altivar 212": "Schneider Altivar 212", "Schneider Altivar 310": "Schneider Altivar 310", "Schneider Altivar 312": "Schneider Altivar 312", "Schneider Altivar 320 Book": "Schneider Altivar 320 Book", "Schneider Altivar 320 Compact": "Schneider Altivar 320 Compact", "Schneider Altivar 340": "Schneider Altivar 340", "Schneider Altivar 630": "Schneider Altivar 630", "Schneider Altivar 650": "Schneider Altivar 650", "Schneider Altivar 71": "Schneider Altivar 71", "Schneider Altivar 930": "Schneider Altivar 930", "Schneider Altivar 950": "Schneider Altivar 950", "Siemens Accesorio": "Siemens Accesorio", "Siemens Sinamics G110": "Siemens Sinamics G110", "Siemens Sinamics G120": "Siemens Sinamics G120", "Siemens Sinamics V20": "Siemens Sinamics V20", "Siemens Sinamics V90": "Siemens Sinamics V90", "WEG Accesorio": "WEG Accesorio", "WEG CFW10": "WEG CFW10", "WEG CFW100": "WEG CFW100", "WEG CFW11": "WEG CFW11", "WEG CFW300": "WEG CFW300", "WEG CFW500": "WEG CFW500"},
+        "marca": {"ABB": "ABB", "AEA": "AEA", "KINCO": "KINCO", "SCHNEIDER": "SCHNEIDER", "SIEMENS": "SIEMENS", "WEG": "WEG"}
+    },
+    {
+        "tipo": "Ventiladores Techo",
+        "subtipo": {"Accesorio": "Accesorio", "Ventilador": "Ventilador"},
+        "marca": {"DILOC": "DILOC", "LUMER": "LUMER"}
+    },
+    {
+        "tipo": "Zocalos",
+        "subtipo": {"Arrancador": "Arrancador", "Compacta": "Compacta", "Descarga": "Descarga", "Halogena": "Halogena", "LED": "LED", "Tubo": "Tubo"},
+        "marca": {"ALIC": "ALIC", "GENERICO": "GENERICO", "LEFkAS": "LEFkAS", "MACROLED": "MACROLED", "RICHI": "RICHI", "SICA": "SICA", "TECNILUZ": "TECNILUZ"}
+    },
+    {
+        "tipo": "Zumbadores",
+        "subtipo": {"Domiciliario": "Domiciliario", "Montaje DIN": "Montaje DIN", "Montaje Panel": "Montaje Panel", "Zumbador Panel": "Zumbador Panel"},
+        "marca": {"ABB": "ABB", "AEA": "AEA", "CONEXTUBE": "CONEXTUBE", "SCHNEIDER": "SCHNEIDER", "STECK": "STECK", "TBCIN": "TBCIN", "WAXON": "WAXON"}
+    }
+]
