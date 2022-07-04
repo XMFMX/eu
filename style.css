@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'MontserratB';
+    src: url('https://github.com/XMFMX/eu/raw/main/MontserratBold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'MontserratM';
+    src: url('https://github.com/XMFMX/eu/raw/main/MontserratMedium.ttf') format('truetype');
+}
